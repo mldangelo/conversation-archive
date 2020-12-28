@@ -1,0 +1,14 @@
+{
+    "messages": [
+        {
+            "_id": "5fe2c019dcb93201001e3a34",
+            "match_id": "53d5eeccb85c95c5347c8c6a5d8bd536a10f5f0100a84639",
+            "sent_date": "2020-12-23T03:57:13.298Z",
+            "message": "Hi! Where in the city are you based?",
+            "to": "5d8bd536a10f5f0100a84639",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-23T03:57:13.298Z",
+            "timestamp": 1608695833298
+        }
+    ]
+}

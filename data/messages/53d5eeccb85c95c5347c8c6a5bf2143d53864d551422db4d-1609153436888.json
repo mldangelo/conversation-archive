@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "5f80c9cf7f4c2f0100d0f186",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:36:31.790Z",
+        "message": "It was founded by my best friend. If you have any complaints to pass along, I’d be happy to harshly criticize Snappr’s product on your behalf.",
+        "to": "5bf2143d53864d551422db4d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-09T20:36:31.790Z",
+        "timestamp": 1602275791790
+    },
+    {
+        "_id": "5f80c985c2bc850100a5c2bd",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:35:17.428Z",
+        "message": "Snappr.com*",
+        "to": "5bf2143d53864d551422db4d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-09T20:35:17.428Z",
+        "timestamp": 1602275717428
+    },
+    {
+        "_id": "5f80c9760aa5850100f92091",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:35:02.736Z",
+        "message": "Have you ever heard of snapper.com?",
+        "to": "5bf2143d53864d551422db4d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-09T20:35:02.736Z",
+        "timestamp": 1602275702736
+    },
+    {
+        "_id": "5f80c96e6d58e00100e16c70",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:34:54.366Z",
+        "message": "I love to travel and I wish I was better at portraiture.",
+        "to": "5bf2143d53864d551422db4d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-09T20:34:54.366Z",
+        "timestamp": 1602275694366
+    },
+    {
+        "_id": "5f80c8c6437acd010086a8c1",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:32:06.562Z",
+        "message": "I do portraits ",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5bf2143d53864d551422db4d",
+        "created_date": "2020-10-09T20:32:06.562Z",
+        "timestamp": 1602275526562
+    },
+    {
+        "_id": "5f80c8c0b9e6e1010033b611",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:32:00.544Z",
+        "message": "And something telling me you should know how to take good pictures.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5bf2143d53864d551422db4d",
+        "created_date": "2020-10-09T20:32:00.544Z",
+        "timestamp": 1602275520544
+    },
+    {
+        "_id": "5f80c89a03361801006e72b4",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:31:22.372Z",
+        "message": "And I see you travel often. ",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5bf2143d53864d551422db4d",
+        "created_date": "2020-10-09T20:31:22.372Z",
+        "timestamp": 1602275482372
+    },
+    {
+        "_id": "5f80c87c124dee0100ff23ac",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:30:52.584Z",
+        "message": "Happy Friday ",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5bf2143d53864d551422db4d",
+        "created_date": "2020-10-09T20:30:52.584Z",
+        "timestamp": 1602275452584
+    },
+    {
+        "_id": "5f80c849c18f740100560280",
+        "match_id": "53d5eeccb85c95c5347c8c6a5bf2143d53864d551422db4d",
+        "sent_date": "2020-10-09T20:30:01.911Z",
+        "message": "Hi! Happy Friday! I’m a huge photography/technology nerd (I’m not a good photographer). Recently, I’ve been doing a lot of Slit-Scan imaging. What type of photography do you do?",
+        "to": "5bf2143d53864d551422db4d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-09T20:30:01.911Z",
+        "timestamp": 1602275401911
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "_id": "5f4a55e2df35690100c42fcd",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-29T13:19:30.211Z",
+        "message": "Wow thanks for these thoughtful dates but I literally got back surgery last week so I’m able to walk but feeling weak. I generally do like the Manhattan though, maybe not this week but the following after?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "513153764183ef8d6100039a",
+        "created_date": "2020-08-29T13:19:30.211Z",
+        "timestamp": 1598707170211
+    },
+    {
+        "_id": "5f49b326f4e44c0100ee5f16",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-29T01:45:10.490Z",
+        "message": "My weekend is still open. I'd also be happy to do something lower key after work next week. Let me know what works best for you.",
+        "to": "513153764183ef8d6100039a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-29T01:45:10.490Z",
+        "timestamp": 1598665510490,
+        "is_liked": true
+    },
+    {
+        "_id": "5f49b2d7d688e60100f7ae39",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-29T01:43:51.186Z",
+        "message": "Brooklyn Date Ideas\n1) Coffee, walk Domino Park, or bike Brooklyn Bridge Park. Drinks after (Hotel Delmano?). Dinner at somewhere cute like Cafe Colette or Diner. \n2) Climbing at Dumbo Boulders. Food nearby after. \n3) Go surfing at Rockaway (if conditions are good - still hopeful for a hurricane surge) — I may ask for your help lugging my board from my apartment to the A train. \n4) Anything not on this list that you would like to do. ",
+        "to": "513153764183ef8d6100039a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-29T01:43:51.186Z",
+        "timestamp": 1598665431186
+    },
+    {
+        "_id": "5f49b2b926f37a01004b1e46",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-29T01:43:21.558Z",
+        "message": "\nManhattan Date Ideas \n1) Coffee in Meatpacking (Kobrick, Blue Bottle, and/or Starbucks Reserve), get tickets to walk the Highline, maybe visit an art gallery, and get drinks after depending on how much our date feels like purgatory. \n2) Bike along the Hudson, stop at Grand Banks or City Vineyard.\n3) Dinner in the LES at Barrio Chino for tacos, Shu Jiao Fu Zhou for dumplings, or The Fat Radish before it closes forever. \n4) Pick out books for each other that we’ll never read at the Strand or McNally Jackson. Walk east for lunch or dinner in alphabet city (Raclette?)\n5) Afternoon at the Met (reopens tomorrow). Can be combined with coffee, drinks, and/or dinner. \n6) Afternoon drinks at Dante, see how many dogs we can abscond with at Washington Square Park. ",
+        "to": "513153764183ef8d6100039a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-29T01:43:21.558Z",
+        "timestamp": 1598665401558
+    },
+    {
+        "_id": "5f49b2ae5aea7501002e6264",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-29T01:43:10.198Z",
+        "message": "Hi Sarita, I’m sorry for the delay. These are broadly broken down by location. If these don’t work, please feel free to suggest something else. I’d be happy doing literally anything as long as I get to spend time with you. ",
+        "to": "513153764183ef8d6100039a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-29T01:43:10.198Z",
+        "timestamp": 1598665390198
+    },
+    {
+        "_id": "5f494e4eb2cfa1010027c179",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-28T18:34:54.173Z",
+        "message": "Hi! My exchange rate is normally pegged at one super like to one fancy dinner, but you seem pretty extraordinary so I’m happy to make an exception. Are you free this weekend/week? Can I send some suggestions towards the end of my work day?",
+        "to": "513153764183ef8d6100039a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-28T18:34:54.173Z",
+        "timestamp": 1598639694173,
+        "is_liked": true
+    },
+    {
+        "_id": "5f493d4227cb800100fc65f2",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-28T17:22:10.103Z",
+        "message": "You super liked me! I’d like a fancy dinner",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "513153764183ef8d6100039a",
+        "created_date": "2020-08-28T17:22:10.103Z",
+        "timestamp": 1598635330103
+    },
+    {
+        "_id": "5f47abe37c5845010054569a",
+        "match_id": "513153764183ef8d6100039a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-27T12:49:39.012Z",
+        "message": "Hi! Purgatory is the best description of Tinder. It’s filled with people that are looking for too wide a variety of different things including nothing at all. I want to escape damnation with someone that likes art, animals (your cat is adorable), and cycling.",
+        "to": "513153764183ef8d6100039a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-27T12:49:39.012Z",
+        "timestamp": 1598532579012
+    }
+]

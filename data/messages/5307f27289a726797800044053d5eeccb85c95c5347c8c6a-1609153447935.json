@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5f7e51a26f07e60100170563",
+        "match_id": "5307f27289a726797800044053d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-07T23:39:14.592Z",
+        "message": "You ready for this debate? I hope she trounces him",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5307f27289a7267978000440",
+        "created_date": "2020-10-07T23:39:14.592Z",
+        "timestamp": 1602113954592
+    },
+    {
+        "_id": "5f7e518f08d1cf01005cf468",
+        "match_id": "5307f27289a726797800044053d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-07T23:38:55.507Z",
+        "message": "Ha yes! (Sorry, I’m so bad at checking this) - I was visiting my parents for a bit and am back in the city tomorrow",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5307f27289a7267978000440",
+        "created_date": "2020-10-07T23:38:55.507Z",
+        "timestamp": 1602113935507
+    },
+    {
+        "_id": "5f7d240e565ab401007fa093",
+        "match_id": "5307f27289a726797800044053d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-07T02:12:30.026Z",
+        "message": "Hi Annie! You’re 47 miles away :( Are you based in the city?",
+        "to": "5307f27289a7267978000440",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-07T02:12:30.026Z",
+        "timestamp": 1602036750026
+    }
+]

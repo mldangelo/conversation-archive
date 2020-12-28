@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5bcaa924a404f768099b0fff",
+        "match_id": "52d5f0683e6497eb1d0009fd53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-10-20T04:03:48.939Z",
+        "message": "Are there other rules you use to eliminate matches? For example, I am looking for someone along the same subway line and am very bad at going on dates above 14th street.",
+        "to": "52d5f0683e6497eb1d0009fd",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-20T04:03:48.939Z",
+        "timestamp": 1540008228939
+    },
+    {
+        "_id": "5bcaa8d78cda51cd09f6e772",
+        "match_id": "52d5f0683e6497eb1d0009fd53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-10-20T04:02:31.952Z",
+        "message": "Thank you thinking I’m cute, or for making an exception to  your height rule.",
+        "to": "52d5f0683e6497eb1d0009fd",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-20T04:02:31.952Z",
+        "timestamp": 1540008151952
+    }
+]

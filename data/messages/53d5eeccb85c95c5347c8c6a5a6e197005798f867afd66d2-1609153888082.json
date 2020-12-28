@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "5b3b6674854ee20256bf30ea",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a6e197005798f867afd66d2",
+        "sent_date": "2018-07-03T12:05:08.893Z",
+        "message": "5 and a half years",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a6e197005798f867afd66d2",
+        "created_date": "2018-07-03T12:05:08.893Z",
+        "timestamp": 1530619508893
+    },
+    {
+        "_id": "5b3afd1de668db8a37edc87b",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a6e197005798f867afd66d2",
+        "sent_date": "2018-07-03T04:35:41.705Z",
+        "message": "How long have you been in New York for?",
+        "to": "5a6e197005798f867afd66d2",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-03T04:35:41.705Z",
+        "timestamp": 1530592541705
+    },
+    {
+        "_id": "5b3afd179d65ad366962302c",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a6e197005798f867afd66d2",
+        "sent_date": "2018-07-03T04:35:35.040Z",
+        "message": "I love the east village. I’m 13th and Hudson.",
+        "to": "5a6e197005798f867afd66d2",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-03T04:35:35.040Z",
+        "timestamp": 1530592535040
+    },
+    {
+        "_id": "5b3afa553a19277d62e9077f",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a6e197005798f867afd66d2",
+        "sent_date": "2018-07-03T04:23:49.906Z",
+        "message": "East Village",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a6e197005798f867afd66d2",
+        "created_date": "2018-07-03T04:23:49.906Z",
+        "timestamp": 1530591829906
+    },
+    {
+        "_id": "5b3af9fde2657f4d487dde15",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a6e197005798f867afd66d2",
+        "sent_date": "2018-07-03T04:22:21.486Z",
+        "message": "Hey Hayley! Where in New York are you based?",
+        "to": "5a6e197005798f867afd66d2",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-03T04:22:21.486Z",
+        "timestamp": 1530591741486
+    }
+]

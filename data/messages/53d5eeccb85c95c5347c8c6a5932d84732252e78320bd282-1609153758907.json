@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5bca4a7cef60ae74093708c9",
+        "match_id": "53d5eeccb85c95c5347c8c6a5932d84732252e78320bd282",
+        "sent_date": "2018-10-19T21:19:56.840Z",
+        "message": "Yep! I sunburned during a Galantis set at an umbrella-less table there in July. Every time I go to Vegas, I promise myself I won't go back, yet somehow I keep going back. There's so much of the world to see, speaking of which, where would you most like to see next? ",
+        "to": "5932d84732252e78320bd282",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-19T21:19:56.840Z",
+        "timestamp": 1539983996840
+    },
+    {
+        "_id": "5bc9cca3a470946909c69674",
+        "match_id": "53d5eeccb85c95c5347c8c6a5932d84732252e78320bd282",
+        "sent_date": "2018-10-19T12:22:59.060Z",
+        "message": "It is! I was there over Labor Day weekend. Have you been?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5932d84732252e78320bd282",
+        "created_date": "2018-10-19T12:22:59.060Z",
+        "timestamp": 1539951779060
+    },
+    {
+        "_id": "5bc56242eedb6d8c0949be47",
+        "match_id": "53d5eeccb85c95c5347c8c6a5932d84732252e78320bd282",
+        "sent_date": "2018-10-16T04:00:02.182Z",
+        "message": "Hey Magda! Is your first picture from the pool at Encore?",
+        "to": "5932d84732252e78320bd282",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-16T04:00:02.182Z",
+        "timestamp": 1539662402182
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5f90df10c545e801004c9471",
+        "match_id": "531e32c1f4354ecc4c00b8d953d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-22T01:23:28.426Z",
+        "message": "Software engineering is likely the better choice lol. Architecture is a struggle sometimes",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "531e32c1f4354ecc4c00b8d9",
+        "created_date": "2020-10-22T01:23:28.426Z",
+        "timestamp": 1603329808426
+    },
+    {
+        "_id": "5f90def300ddf30100cd78be",
+        "match_id": "531e32c1f4354ecc4c00b8d953d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-22T01:22:59.058Z",
+        "message": "Hey Michael. I’m working on a few—commercial, mixed use, hospitality",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "531e32c1f4354ecc4c00b8d9",
+        "created_date": "2020-10-22T01:22:59.058Z",
+        "timestamp": 1603329779058
+    },
+    {
+        "_id": "5f7d24be4e1953010041564c",
+        "match_id": "531e32c1f4354ecc4c00b8d953d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-07T02:15:26.389Z",
+        "message": "Hi! What are you designing? When I was little, I wanted to be an architect. High school studio art killed my ambition so I became a software engineer instead :( Sometimes I doodle structures in my sketchbook. I wish I knew more.",
+        "to": "531e32c1f4354ecc4c00b8d9",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-07T02:15:26.389Z",
+        "timestamp": 1602036926389
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5f7d2fc1467ad60100df547e",
+        "match_id": "53d5eeccb85c95c5347c8c6a557a29670fc3a7dc6065c752",
+        "sent_date": "2020-10-07T03:02:25.071Z",
+        "message": "Hi! I'm in Gramercy, what about you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "557a29670fc3a7dc6065c752",
+        "created_date": "2020-10-07T03:02:25.071Z",
+        "timestamp": 1602039745071
+    },
+    {
+        "_id": "5f7d2ed84e19530100429460",
+        "match_id": "53d5eeccb85c95c5347c8c6a557a29670fc3a7dc6065c752",
+        "sent_date": "2020-10-07T02:58:32.189Z",
+        "message": "Hi Kristen! Where in the city are you based?",
+        "to": "557a29670fc3a7dc6065c752",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-07T02:58:32.189Z",
+        "timestamp": 1602039512189
+    }
+]

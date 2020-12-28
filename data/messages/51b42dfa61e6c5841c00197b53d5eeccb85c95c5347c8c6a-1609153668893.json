@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5d4252bb327cf601009f11ac",
+        "match_id": "51b42dfa61e6c5841c00197b53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2019-08-01T02:47:23.213Z",
+        "message": "Hi Tam! Where in New York are you based?",
+        "to": "51b42dfa61e6c5841c00197b",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-08-01T02:47:23.213Z",
+        "timestamp": 1564627643213
+    }
+]

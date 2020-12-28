@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "56e9aab9c7d555327f3fb831",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T18:49:29.905Z",
+        "message": "Did you go out to Tempelfjorden?",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T18:49:29.905Z",
+        "timestamp": 1458154169905
+    },
+    {
+        "_id": "56e9aa877dd71339738b98bf",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T18:48:39.618Z",
+        "message": "Cool! Can you recommend one? I haven't decided yet. My trip hasn't all been a vacation. I spent the first half working with the UN and the Ethiopian ministry of health in Addis Ababa. I've been traveling around mostly on my own for about a month now.",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T18:48:39.618Z",
+        "timestamp": 1458154119618
+    },
+    {
+        "_id": "56e9a9671e7d51a92fb57f61",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T18:43:51.855Z",
+        "message": "We've been on a couple of snowmobile exkursions but mostly enjoying eachothers company. 10 weeks! Wow, that must be amazing",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "553bc5370d59e18832d7b301",
+        "created_date": "2016-03-16T18:43:51.855Z",
+        "timestamp": 1458153831855
+    },
+    {
+        "_id": "56e9a7928e55cd4f730666e4",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T18:36:02.983Z",
+        "message": "I've been traveling for ~10 weeks and have been having so much fun.",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T18:36:02.983Z",
+        "timestamp": 1458153362983
+    },
+    {
+        "_id": "56e9a7661e7d51a92fb54483",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T18:35:18.830Z",
+        "message": "today.* Going on my first tour in the morning.",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T18:35:18.830Z",
+        "timestamp": 1458153318830
+    },
+    {
+        "_id": "56e9a74ef70af4ab5d23fe0f",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T18:34:54.336Z",
+        "message": "What have you done? I just got here today?",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T18:34:54.336Z",
+        "timestamp": 1458153294336
+    },
+    {
+        "_id": "56e99e1f6acee43d56b4bbc5",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T17:55:43.880Z",
+        "message": "Sounds like quite the trip! Enjoying yourself? I leave tomorrow, been here for a couple of days now!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "553bc5370d59e18832d7b301",
+        "created_date": "2016-03-16T17:55:43.880Z",
+        "timestamp": 1458150943880
+    },
+    {
+        "_id": "56e99d4315019d4612b19286",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T17:52:03.777Z",
+        "message": "How long are you hear for?",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T17:52:03.777Z",
+        "timestamp": 1458150723777
+    },
+    {
+        "_id": "56e99d2f34165b831276915a",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T17:51:43.340Z",
+        "message": "Hah. Stanford. Most people call me Michael. I wanted to go dogsledding! And spelunking, and snowmobiling! And to see Svalbard, so I came.",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T17:51:43.340Z",
+        "timestamp": 1458150703340
+    },
+    {
+        "_id": "56e99ca78b8932f47e3b8a4b",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T17:49:27.580Z",
+        "message": "A was missing my friend so I devisen to go after her! What about you Stanford?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "553bc5370d59e18832d7b301",
+        "created_date": "2016-03-16T17:49:27.580Z",
+        "timestamp": 1458150567580
+    },
+    {
+        "_id": "56e99b0dafb4f58921714c61",
+        "match_id": "53d5eeccb85c95c5347c8c6a553bc5370d59e18832d7b301",
+        "sent_date": "2016-03-16T17:42:37.775Z",
+        "message": "Hey Josefin :) What brings you to Longyearbyen?",
+        "to": "553bc5370d59e18832d7b301",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2016-03-16T17:42:37.775Z",
+        "timestamp": 1458150157775
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5fa0a8fe5e7cac0100aabc84",
+        "match_id": "520c3c226d9fc7e06300020653d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-11-03T00:49:02.881Z",
+        "message": "Hey! How was your Halloween?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "520c3c226d9fc7e063000206",
+        "created_date": "2020-11-03T00:49:02.881Z",
+        "timestamp": 1604364542881
+    },
+    {
+        "_id": "5f8dfeb90cd0310100a3c9c7",
+        "match_id": "520c3c226d9fc7e06300020653d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-19T21:01:45.079Z",
+        "message": "Hey Michael! Always happy to meet a fellow burner. I camped with a small group called the slutty bunnies the past two years out in the burbs. Did you go to the virtual burn?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "520c3c226d9fc7e063000206",
+        "created_date": "2020-10-19T21:01:45.079Z",
+        "timestamp": 1603141305079
+    },
+    {
+        "_id": "5f8d023d99fc2c0100a3924e",
+        "match_id": "520c3c226d9fc7e06300020653d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-10-19T03:04:29.156Z",
+        "message": "Hi! Who do you camp with at Burning Man? I spent 3 years with Mooncheese (mostly ex-NASA people that make 10,000 grilled cheese sandwiches), 1 with Black Lotus (effective altruism snobs + aerialists), and I've camped with friends (trash fence) twice. ",
+        "to": "520c3c226d9fc7e063000206",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-19T03:04:29.156Z",
+        "timestamp": 1603076669156
+    }
+]

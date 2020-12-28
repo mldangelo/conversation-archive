@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5c47e8e98f9ebc11006b089e",
+        "match_id": "51da1bf2408eebec5b0000b753d5eeccb85c95c5347c8c6a",
+        "sent_date": "2019-01-23T04:09:13.344Z",
+        "message": "Hi Lauren! You’re an excellent photographer, I love your travel photos. Where do you most want to go next?",
+        "to": "51da1bf2408eebec5b0000b7",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-01-23T04:09:13.344Z",
+        "timestamp": 1548216553344
+    }
+]

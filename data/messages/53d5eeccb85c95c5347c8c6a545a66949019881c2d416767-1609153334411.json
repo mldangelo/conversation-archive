@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5fdfab82d3e2750100ccf431",
+        "match_id": "53d5eeccb85c95c5347c8c6a545a66949019881c2d416767",
+        "sent_date": "2020-12-20T19:52:34.621Z",
+        "message": "Where is home for you? Are you going to stay in the city this winter?",
+        "to": "545a66949019881c2d416767",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-20T19:52:34.621Z",
+        "timestamp": 1608493954621
+    },
+    {
+        "_id": "5fdfab52b695c201001e0d5a",
+        "match_id": "53d5eeccb85c95c5347c8c6a545a66949019881c2d416767",
+        "sent_date": "2020-12-20T19:51:46.728Z",
+        "message": "Hi Cyana! I’m struggling with the right opener. My work is finance-y but I’m not. I love traveling too and I especially love London (I’ve considered moving there multiple times), and I’m also an avid reader (enjoy fiction but usually technical/nonfiction), and I hold some zany ideologies as a social Democrat.",
+        "to": "545a66949019881c2d416767",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-20T19:51:46.728Z",
+        "timestamp": 1608493906728
+    }
+]

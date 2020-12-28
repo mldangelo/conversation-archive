@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5df01413917f0601000efa69",
+        "match_id": "53d5eeccb85c95c5347c8c6a5deca5b402539601009eab6e",
+        "sent_date": "2019-12-10T21:54:27.702Z",
+        "message": "i’m in brooklyn. right near prospect park, you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5deca5b402539601009eab6e",
+        "created_date": "2019-12-10T21:54:27.702Z",
+        "timestamp": 1576014867702
+    },
+    {
+        "_id": "5df013ef765f870100389dd0",
+        "match_id": "53d5eeccb85c95c5347c8c6a5deca5b402539601009eab6e",
+        "sent_date": "2019-12-10T21:53:51.732Z",
+        "message": "hey!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5deca5b402539601009eab6e",
+        "created_date": "2019-12-10T21:53:51.732Z",
+        "timestamp": 1576014831732
+    },
+    {
+        "_id": "5def256b77074b01008b149c",
+        "match_id": "53d5eeccb85c95c5347c8c6a5deca5b402539601009eab6e",
+        "sent_date": "2019-12-10T04:56:11.409Z",
+        "message": "Hey, where in the city are you based?",
+        "to": "5deca5b402539601009eab6e",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-12-10T04:56:11.409Z",
+        "timestamp": 1575953771409
+    }
+]

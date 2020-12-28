@@ -1,0 +1,162 @@
+[
+    {
+        "_id": "5b8f4965a9db7bca09321463",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T03:11:33.445Z",
+        "message": "Do you take the path home?",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-05T03:11:33.445Z",
+        "timestamp": 1536117093445
+    },
+    {
+        "_id": "5b8f49601f7ae56a0935b671",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T03:11:28.439Z",
+        "message": "I haven’t been to midtown in years, except to visit my attorneys and I’ve never explored Jersey :/ I used to live in TriBeCa 5 blocks from my office. I now live ~ 20 blocks away in meatpacking. I miss my old commute.",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-05T03:11:28.439Z",
+        "timestamp": 1536117088439
+    },
+    {
+        "_id": "5b8f3742c24c028d090a2bec",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T01:54:10.839Z",
+        "message": "Actually*",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-09-05T01:54:10.839Z",
+        "timestamp": 1536112450839
+    },
+    {
+        "_id": "5b8f373f75d16b1f57ff475d",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T01:54:07.628Z",
+        "message": "I work in midtown and live on the jersey side avtuallly",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-09-05T01:54:07.628Z",
+        "timestamp": 1536112447628
+    },
+    {
+        "_id": "5b8f32201d062fa7091c2d0a",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T01:32:16.767Z",
+        "message": "Where are you based in New York / are you based full time in New York?",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-05T01:32:16.767Z",
+        "timestamp": 1536111136767
+    },
+    {
+        "_id": "5b8f31e0190e146709b76d2b",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T01:31:12.926Z",
+        "message": "It also sounds much more challenging than solving discrete optimization problems.",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-05T01:31:12.926Z",
+        "timestamp": 1536111072926
+    },
+    {
+        "_id": "5b8f31a3c991ce7409d26aa3",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-05T01:30:11.873Z",
+        "message": "No! It doesn’t. I’m just an asshole. I’m sorry for my delay. I’ve only had exposure to the theoretical / optimization side of supply chain management.  What you do sounds fascinating.",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-05T01:30:11.873Z",
+        "timestamp": 1536111011873
+    },
+    {
+        "_id": "5b8f1162a5454c6909cf363a",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-04T23:12:34.391Z",
+        "message": "Maybe that sounds boring to you lol",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-09-04T23:12:34.391Z",
+        "timestamp": 1536102754391
+    },
+    {
+        "_id": "5b8a38f8fc8bbb3b55dc5de1",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-01T07:00:08.703Z",
+        "message": "Basically I have to make sure that everything is aligned between the different departments of the company: will the stores get the product? on time? Are we all set for the shelf plan change? What promotions is marketing working on? Is it feasible inventory-wise? How could be transportation costs improve? How many times per week should the stores order during Holiday season and when should the orders be placed for delivery in these dates? How is inventory management? Why do we have inventory discrepancies? Then I have to relay the information to the team and work on plan B if it is not going well... lol pretty challenging tbh haha",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-09-01T07:00:08.703Z",
+        "timestamp": 1535785208703
+    },
+    {
+        "_id": "5b8a38022e8ae51f41879dd3",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-01T06:56:02.699Z",
+        "message": "Oh wow :)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-09-01T06:56:02.699Z",
+        "timestamp": 1535784962699
+    },
+    {
+        "_id": "5b8a11e6fab6050f5e57761d",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-09-01T04:13:26.927Z",
+        "message": "I’m a software engineer, which really means that I make power point presentations for my attorneys, and slowly poison the hearts and minds of my coworkers. Supply chain management is so fascinating to me. I was a PhD student at Stanford computational and mathematical engineering program, but I took a lot of courses in management science and engineering which is their operations research department. What do you do in supply chain management?",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-01T04:13:26.927Z",
+        "timestamp": 1535775206927
+    },
+    {
+        "_id": "5b89c9680e23725057d714a1",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-31T23:04:08.104Z",
+        "message": "I’m a Supply Chain Manager! how about you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-08-31T23:04:08.104Z",
+        "timestamp": 1535756648104
+    },
+    {
+        "_id": "5b89c95410abcd671f46867c",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-31T23:03:48.338Z",
+        "message": "That sounds nice :)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-08-31T23:03:48.338Z",
+        "timestamp": 1535756628338
+    },
+    {
+        "_id": "5b88b3bf3360047702464215",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-31T03:19:27.464Z",
+        "message": "Most want to go: probably Nepal. It's been on my list for years. I travel frequently but usually to the same places (eg last week in SF, 3 days next week in Milan). I'm planning to take a week off in December, but I don't know where to yet. What do you do?",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-08-31T03:19:27.464Z",
+        "timestamp": 1535685567464
+    },
+    {
+        "_id": "5b87853f1dd6e0c1096ba28c",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-30T05:48:47.343Z",
+        "message": "Peru/Bolivia!! :) how about you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "535898f36c41870b11004ef5",
+        "created_date": "2018-08-30T05:48:47.343Z",
+        "timestamp": 1535608127343
+    },
+    {
+        "_id": "5b876f0ccd3acb640971f159",
+        "match_id": "535898f36c41870b11004ef553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-30T04:14:04.832Z",
+        "message": "Hi! Everywhere is on my list too. Where do you most want to go next? ",
+        "to": "535898f36c41870b11004ef5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-08-30T04:14:04.832Z",
+        "timestamp": 1535602444832
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5b3945f99e488fba098b4c60",
+        "match_id": "53d5eeccb85c95c5347c8c6a59389e84a87f48b87909bcd0",
+        "sent_date": "2018-07-01T21:22:01.092Z",
+        "message": "6 months :) studied abroad over there and absolutely loved it! You ever been?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59389e84a87f48b87909bcd0",
+        "created_date": "2018-07-01T21:22:01.092Z",
+        "timestamp": 1530480121092
+    },
+    {
+        "_id": "5b3453da54b4e395164a5a9a",
+        "match_id": "53d5eeccb85c95c5347c8c6a59389e84a87f48b87909bcd0",
+        "sent_date": "2018-06-28T03:19:54.802Z",
+        "message": "Hey Alexa, how long were you in Sydney for? ",
+        "to": "59389e84a87f48b87909bcd0",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-28T03:19:54.802Z",
+        "timestamp": 1530155994802
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5f7d4aeb53f32f0100bbbf25",
+        "match_id": "53d5eeccb85c95c5347c8c6a5dd1554f024bc601009eb4a8",
+        "sent_date": "2020-10-07T04:58:19.042Z",
+        "message": "Do you also write for fun or for yourself?",
+        "to": "5dd1554f024bc601009eb4a8",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-07T04:58:19.042Z",
+        "timestamp": 1602046699042
+    },
+    {
+        "_id": "5f7d49c6335607010049be50",
+        "match_id": "53d5eeccb85c95c5347c8c6a5dd1554f024bc601009eb4a8",
+        "sent_date": "2020-10-07T04:53:26.235Z",
+        "message": "Ahah. My strategy has been to type “wedding toast” into google and copy/paste/delete random passages until I have something passably coherent. I would love to try utilizing a text transformer (see https://transformer.huggingface.co/) but am also afraid of ruining friendships.",
+        "to": "5dd1554f024bc601009eb4a8",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-07T04:53:26.235Z",
+        "timestamp": 1602046406235
+    },
+    {
+        "_id": "5f7d45c3a302fd010043cbad",
+        "match_id": "53d5eeccb85c95c5347c8c6a5dd1554f024bc601009eb4a8",
+        "sent_date": "2020-10-07T04:36:19.175Z",
+        "message": "Hi! I’m a ghostwriter which involves some exec comms and a shocking amount of wedding toasts",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5dd1554f024bc601009eb4a8",
+        "created_date": "2020-10-07T04:36:19.175Z",
+        "timestamp": 1602045379175
+    },
+    {
+        "_id": "5f7d2e9500e3cb010018b37d",
+        "match_id": "53d5eeccb85c95c5347c8c6a5dd1554f024bc601009eb4a8",
+        "sent_date": "2020-10-07T02:57:25.152Z",
+        "message": "Hi Emily! Can you tell me about your writing? What are you working on?",
+        "to": "5dd1554f024bc601009eb4a8",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-07T02:57:25.152Z",
+        "timestamp": 1602039445152
+    }
+]

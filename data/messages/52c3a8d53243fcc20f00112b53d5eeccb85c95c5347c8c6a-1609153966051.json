@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "59983f8996dddab063b49110",
+        "match_id": "52c3a8d53243fcc20f00112b53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2017-08-19T13:39:21.245Z",
+        "message": "Haha just kidding... I like your profile! I am also a big fan of sea, space, summer and books. Can't remember the last time I used colored pencils though.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52c3a8d53243fcc20f00112b",
+        "created_date": "2017-08-19T13:39:21.245Z",
+        "timestamp": 1503149961245
+    },
+    {
+        "_id": "59983f0af457f2a30c1a453a",
+        "match_id": "52c3a8d53243fcc20f00112b53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2017-08-19T13:37:14.382Z",
+        "message": "Hey! So tell me about your startup...",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52c3a8d53243fcc20f00112b",
+        "created_date": "2017-08-19T13:37:14.382Z",
+        "timestamp": 1503149834382
+    }
+]

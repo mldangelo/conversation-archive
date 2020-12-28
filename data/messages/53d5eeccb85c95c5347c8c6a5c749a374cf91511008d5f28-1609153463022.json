@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5f7881758ff93b0100fbe4f6",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c749a374cf91511008d5f28",
+        "sent_date": "2020-10-03T13:49:41.147Z",
+        "message": "Love a good doodle! I really like funny looking dogs like corgis, frenchies, dachshunds lol",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c749a374cf91511008d5f28",
+        "created_date": "2020-10-03T13:49:41.147Z",
+        "timestamp": 1601732981147
+    },
+    {
+        "_id": "5f77f2165b42a301005eb0c4",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c749a374cf91511008d5f28",
+        "sent_date": "2020-10-03T03:37:57.963Z",
+        "message": "What are your favorite dog breeds? I’ve got a soft spot for border collies and bernedoodles",
+        "to": "5c749a374cf91511008d5f28",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-03T03:37:57.963Z",
+        "timestamp": 1601696277963
+    }
+]

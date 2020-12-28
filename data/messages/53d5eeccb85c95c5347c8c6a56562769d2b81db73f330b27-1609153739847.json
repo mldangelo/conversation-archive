@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5bff5588a5b64aa8091de87a",
+        "match_id": "53d5eeccb85c95c5347c8c6a56562769d2b81db73f330b27",
+        "sent_date": "2018-11-29T02:57:12.428Z",
+        "message": "Hi Anna! Please tell me that you have a dog in New York! And if so, can I meet him?",
+        "to": "56562769d2b81db73f330b27",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-11-29T02:57:12.428Z",
+        "timestamp": 1543460232428
+    }
+]

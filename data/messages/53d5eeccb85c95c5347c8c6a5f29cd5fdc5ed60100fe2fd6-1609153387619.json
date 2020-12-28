@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5fc46eaf42ce0b0100f59269",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f29cd5fdc5ed60100fe2fd6",
+        "sent_date": "2020-11-30T04:01:51.059Z",
+        "message": "Ah! Ok, that's only fair - I asked about your job. My company acts as a financial backstop to the big auction houses when they offer price guarantees on works to consigners. In simpler terms, they buy insurance from my company that insures the value of the works of art that they sell. We do some other kooky things too, but the core value props are: understand everything about investment-grade art and build tooling to efficiently price art. So, are you an artist? Am I the devil? ",
+        "to": "5f29cd5fdc5ed60100fe2fd6",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-11-30T04:01:51.059Z",
+        "timestamp": 1606708911059
+    },
+    {
+        "_id": "5fc274c4e731e9010033bcfe",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f29cd5fdc5ed60100fe2fd6",
+        "sent_date": "2020-11-28T16:03:16.975Z",
+        "message": "Tell me about your startup!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5f29cd5fdc5ed60100fe2fd6",
+        "created_date": "2020-11-28T16:03:16.975Z",
+        "timestamp": 1606579396975
+    },
+    {
+        "_id": "5fc27496dbb41001001a206d",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f29cd5fdc5ed60100fe2fd6",
+        "sent_date": "2020-11-28T16:02:30.715Z",
+        "message": "That’s a tricky question!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5f29cd5fdc5ed60100fe2fd6",
+        "created_date": "2020-11-28T16:02:30.715Z",
+        "timestamp": 1606579350715
+    },
+    {
+        "_id": "5fc19df4dbb4100100fa0e37",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f29cd5fdc5ed60100fe2fd6",
+        "sent_date": "2020-11-28T00:46:44.011Z",
+        "message": "Hi! Are you a full time artist? The works on your IG are great.",
+        "to": "5f29cd5fdc5ed60100fe2fd6",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-11-28T00:46:44.011Z",
+        "timestamp": 1606524404011
+    }
+]

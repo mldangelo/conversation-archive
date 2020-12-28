@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5b3fbb187853618a6cb719e9",
+        "match_id": "518ef944dcdc16ef4d00001153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T18:55:20.688Z",
+        "message": "But honestly I’d rather go to a regular dinner and use the rest on a fun activity",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "518ef944dcdc16ef4d000011",
+        "created_date": "2018-07-06T18:55:20.688Z",
+        "timestamp": 1530903320688
+    },
+    {
+        "_id": "5b3fbadfc8066ed5090d5d4e",
+        "match_id": "518ef944dcdc16ef4d00001153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T18:54:23.095Z",
+        "message": "Hmm I’ve always wanted to go to Eleven Madison Park",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "518ef944dcdc16ef4d000011",
+        "created_date": "2018-07-06T18:54:23.095Z",
+        "timestamp": 1530903263095
+    },
+    {
+        "_id": "5b3ee5ed56446a6f096d3139",
+        "match_id": "518ef944dcdc16ef4d00001153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T03:45:49.708Z",
+        "message": "Hey Jane, what's your favorite resturaunt for a fancy dinner? ",
+        "to": "518ef944dcdc16ef4d000011",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T03:45:49.708Z",
+        "timestamp": 1530848749708
+    }
+]

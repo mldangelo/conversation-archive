@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "5f3d588d512c4b01004b8bfe",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-19T16:51:25.313Z",
+        "message": "sounds like good Plans A and B. i should be relatively free this weekend",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5d1c15c6794ee81700a2c0bb",
+        "created_date": "2020-08-19T16:51:25.313Z",
+        "timestamp": 1597855885313
+    },
+    {
+        "_id": "5f3c75cddccf350100afd045",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-19T00:43:57.019Z",
+        "message": "Cool, so let’s restring your racket and go! Or if not, maybe let’s just grab a bottle of wine and sit by the courts and watch people play, less work.",
+        "to": "5d1c15c6794ee81700a2c0bb",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-19T00:43:57.019Z",
+        "timestamp": 1597797837019
+    },
+    {
+        "_id": "5f398b02b553ab0100d1bc46",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-16T19:37:38.403Z",
+        "message": "i know, everything has to have an obstacle in NY. i was just reading though - it sounds like permits aren’t required this season because of the pandemic. sounds like you can just show up and play!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5d1c15c6794ee81700a2c0bb",
+        "created_date": "2020-08-16T19:37:38.403Z",
+        "timestamp": 1597606658403
+    },
+    {
+        "_id": "5f387280a00e2f01004567b6",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-15T23:40:48.084Z",
+        "message": "Oh of course you need a permit for tennis in NYC! Are they hard to get? I thought you just showed up to the courts (shows that I haven’t played in years!)",
+        "to": "5d1c15c6794ee81700a2c0bb",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-15T23:40:48.084Z",
+        "timestamp": 1597534848084
+    },
+    {
+        "_id": "5f36e479242e840100cedfaa",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-14T19:22:33.546Z",
+        "message": "do you have a permit?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5d1c15c6794ee81700a2c0bb",
+        "created_date": "2020-08-14T19:22:33.546Z",
+        "timestamp": 1597432953546
+    },
+    {
+        "_id": "5f36e4684a8f3f0100a87f5a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-14T19:22:16.710Z",
+        "message": "ooh, down! i probably need to restring my racket.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5d1c15c6794ee81700a2c0bb",
+        "created_date": "2020-08-14T19:22:16.710Z",
+        "timestamp": 1597432936710
+    },
+    {
+        "_id": "5f35f662813df001003329ab",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d1c15c6794ee81700a2c0bb",
+        "sent_date": "2020-08-14T02:26:42.969Z",
+        "message": "Hey it’s been 6 months but I think the tennis courts are open now, so — let’s go!",
+        "to": "5d1c15c6794ee81700a2c0bb",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-14T02:26:42.969Z",
+        "timestamp": 1597372002969
+    }
+]

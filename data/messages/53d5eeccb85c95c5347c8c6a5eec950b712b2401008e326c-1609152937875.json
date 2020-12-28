@@ -1,0 +1,340 @@
+{
+    "messages": [
+        {
+            "_id": "5fca8369d424ce01006c00c1",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-04T18:43:53.901Z",
+            "message": "Of course!",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-04T18:43:53.901Z",
+            "timestamp": 1607107433901
+        },
+        {
+            "_id": "5fca833a779b97010000f523",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-04T18:43:06.599Z",
+            "message": "My afternoon is falling apart with unplanned meetings. Can I treat you to a coffee and a cookie any day next week instead?",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-04T18:43:06.599Z",
+            "timestamp": 1607107386599
+        },
+        {
+            "_id": "5fc830fee731e90100f8807d",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-03T00:27:42.137Z",
+            "message": "Yeah I think that will work",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-03T00:27:42.137Z",
+            "timestamp": 1606955262137
+        },
+        {
+            "_id": "5fc82c39bab789010068b027",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-03T00:07:20.990Z",
+            "message": "Awesome! Does ~ 3 pm sound reasonable? My afternoon is open so anytime that works well for you works well for me.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-03T00:07:20.990Z",
+            "timestamp": 1606954040990
+        },
+        {
+            "_id": "5fc824b92cacb80100cac60d",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-02T23:35:21.287Z",
+            "message": "Yeah I’m down for that!",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-02T23:35:21.287Z",
+            "timestamp": 1606952121287,
+            "is_liked": true
+        },
+        {
+            "_id": "5fc824a748f6bc0100672a72",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-02T23:35:03.586Z",
+            "message": "Lol",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-02T23:35:03.586Z",
+            "timestamp": 1606952103586
+        },
+        {
+            "_id": "5fc824a428ca9c0100d0c974",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-02T23:35:00.873Z",
+            "message": "Not yet!! I guess there’s always time to ghost me later",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-02T23:35:00.873Z",
+            "timestamp": 1606952100873
+        },
+        {
+            "_id": "5fc7ea8e2c84160100218259",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-02T19:27:10.284Z",
+            "message": "Haha. No, not yet. Are you free this week? Maybe we could check out Maman or happy bones and the Elizabeth street garden Friday afternoon?",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-02T19:27:10.284Z",
+            "timestamp": 1606937230284
+        },
+        {
+            "_id": "5fc69debb180830100db21ff",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-01T19:47:55.525Z",
+            "message": "No need to apologize I’m always down for some good coffee though",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-01T19:47:55.525Z",
+            "timestamp": 1606852075525
+        },
+        {
+            "_id": "5fc69db84c33620100d427c1",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-01T19:47:04.556Z",
+            "message": "and here I was thinking you’d ghosted me entirely because of my regex incompetency 😂",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-12-01T19:47:04.556Z",
+            "timestamp": 1606852024556
+        },
+        {
+            "_id": "5fc5c2d873739f0100f62a50",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-01T04:13:12.439Z",
+            "message": "If you would like to listen to someone excessively and repeatedly apologize to you, I'd love to buy you a cup of coffee at Maman or anywhere nearby (I would love an excuse to escape for a bit during the workday).  ",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-01T04:13:12.439Z",
+            "timestamp": 1606795992439
+        },
+        {
+            "_id": "5fc5c261dbb41001009cecdb",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-01T04:11:13.113Z",
+            "message": "Stack overflow is a pretty good bet. Especially if you're interested in capturing groups / non-capturing groups. Answers are more sparse around lookaheads and look backs. One of my favorite regex stories is actually about stack overflow and how backtracing is insidious https://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016 ",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-01T04:11:13.113Z",
+            "timestamp": 1606795873113,
+            "is_liked": true
+        },
+        {
+            "_id": "5fc5c156dbb41001009ccc1a",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-12-01T04:06:46.191Z",
+            "message": "Hi! I'm so sorry I didn't see your messages. In case you haven't been whisked off your feet by the love of your life, I would love to demonstrate my dearth of knowledge about regex to you. ",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-01T04:06:46.191Z",
+            "timestamp": 1606795606191
+        },
+        {
+            "_id": "5fb2d571a9ee5f0100755dbd",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:39:29.210Z",
+            "message": "Is it bad that I low key don’t understand regex.... I always just google and stack overflow always comes through 😅",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T19:39:29.210Z",
+            "timestamp": 1605555569210,
+            "is_liked": true
+        },
+        {
+            "_id": "5fb2d529c0ecaa0100f9d6d4",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:38:17.563Z",
+            "message": "Ahah yeah, that was one of the biggest struggles with my last project, there wasn’t enough data to really leverage that power",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T19:38:17.563Z",
+            "timestamp": 1605555497563
+        },
+        {
+            "_id": "5fb2d4cda696a301000ded57",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:36:45.160Z",
+            "message": "I am right around the corner from there lol",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T19:36:45.160Z",
+            "timestamp": 1605555405160
+        },
+        {
+            "_id": "5fb2d4b71891840100ed7284",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:36:23.286Z",
+            "message": "I love maman (!)",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T19:36:23.286Z",
+            "timestamp": 1605555383286,
+            "is_liked": true
+        },
+        {
+            "_id": "5fb2ce9c066e050100e1b4fd",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:10:20.874Z",
+            "message": "I’m still not convinced that it’s any better than a neckbeard that deeply understands regex and has written custom lexicographical parsers.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T19:10:20.874Z",
+            "timestamp": 1605553820874
+        },
+        {
+            "_id": "5fb2ce1c670bc30100671842",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:08:12.238Z",
+            "message": "SpaCy has a high learning curve but can do amazing things once you annotate enough data.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T19:08:12.238Z",
+            "timestamp": 1605553692238
+        },
+        {
+            "_id": "5fb2cded86d0a3010014dfdd",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T19:07:25.203Z",
+            "message": "Hah. I wish, and sort of! My office is directly above a fancy French cafe (Maman). Office coffee is better than Maman but Happy Bones and Gasoline Alley are both within 500 ft and both are pretty great.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T19:07:25.203Z",
+            "timestamp": 1605553645203
+        },
+        {
+            "_id": "5fb2b9f71445ec010063f4dd",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T17:42:15.665Z",
+            "message": "A little bit! Definitely came across it at the start of the project, but didn’t get too far into it",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T17:42:15.665Z",
+            "timestamp": 1605548535665
+        },
+        {
+            "_id": "5fb2b998c9f9ff0100cb4e7f",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T17:40:40.447Z",
+            "message": "Thank you for the recs though 😂",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T17:40:40.447Z",
+            "timestamp": 1605548440447,
+            "is_liked": true
+        },
+        {
+            "_id": "5fb2b98bdb48b401007ae4e0",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T17:40:27.313Z",
+            "message": "You have all that and you’re still going into the office for coffee??? Is your office a fancy french cafe",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T17:40:27.313Z",
+            "timestamp": 1605548427313
+        },
+        {
+            "_id": "5fb2b6c4670bc30100636c04",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T17:28:36.161Z",
+            "message": "Re. NLP have you ever worked with SpaCy? I spend a silly amount of time on NER.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T17:28:36.161Z",
+            "timestamp": 1605547716161
+        },
+        {
+            "_id": "5fb2b684c183f00100f4b655",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T17:27:32.419Z",
+            "message": "My espresso machine has a 52mm portafilter. Next machine I’ll get will have a 58mm. I adore Sylvias with PID controllers.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T17:27:32.419Z",
+            "timestamp": 1605547652419
+        },
+        {
+            "_id": "5fb2b63f2c01260100b91a2d",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T17:26:23.807Z",
+            "message": "I am a huge fan of a scale + aeropress + a grinder + a nice gooseneck kettle. I’m very happy with https://www.amazon.com/dp/B00OXGXW8O and https://www.amazon.com/dp/B077JBQZPX https://www.amazon.com/dp/B009GPJMOU",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T17:26:23.807Z",
+            "timestamp": 1605547583807,
+            "is_liked": true
+        },
+        {
+            "_id": "5fb2a6b78132220100a678f9",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T16:20:07.886Z",
+            "message": "So as much as a coffee addict as I am I don’t have a good set up right now. I mostly make cold brew and I have a nespresso. I’ve always wanted a real espresso machine but they’re big and expensive and so I’ve been waffling on it. Ive been thinking I should just get one of those pour over things or maybe an aero press",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T16:20:07.886Z",
+            "timestamp": 1605543607886
+        },
+        {
+            "_id": "5fb2a64bc14a1401005fcba4",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T16:18:19.891Z",
+            "message": "Well I was just on a project working on a program for legal contract data extraction and processing using ocr, nlp (textract and comprehend), but we’re kind of in the middle of a pivot right now actually. Small company haha",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T16:18:19.891Z",
+            "timestamp": 1605543499891
+        },
+        {
+            "_id": "5fb292448cff7f0100948e0d",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T14:52:52.919Z",
+            "message": "Can I ask you about coffee? Do you have a nice home set up? I went to the office so many times over the pandemic just to have access to the office coffee machines.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T14:52:52.919Z",
+            "timestamp": 1605538372919
+        },
+        {
+            "_id": "5fb291b103589c0100563302",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T14:50:25.108Z",
+            "message": "10/10 execution. And cool. Does AWS stuff mean running a Kubernetes cluster or managing a bunch of lambdas, or are you heavily integrated with all of the AWS services? We’re on GCP. We have a small user facing site that uses two load balancers (http and https because nginx with cert forwarding was not good enough), a sharded DB on our k8s cluster, multiple pods on different node types, and stack driver for logging. We also do something funky for secret management and use a CDN for hosting static files. I think we get about 1000 visitors per month. Our site only has 2 API calls (newsletter signup and contact form). I really hate the dev ops guy.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T14:50:25.108Z",
+            "timestamp": 1605538225108
+        },
+        {
+            "_id": "5fb28cc3d759bc0100272df3",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T14:29:23.817Z",
+            "message": "Haha, the opposite I spent the last 5 years doing mostly front end stuff and now I’m doing aws",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T14:29:23.817Z",
+            "timestamp": 1605536963817
+        },
+        {
+            "_id": "5fb28c89f1babf01003d65c1",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T14:28:25.851Z",
+            "message": "Was feeling inspired by the events of the year",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5eec950b712b2401008e326c",
+            "created_date": "2020-11-16T14:28:25.851Z",
+            "timestamp": 1605536905851
+        },
+        {
+            "_id": "5fb2062d3f3c930100678200",
+            "match_id": "53d5eeccb85c95c5347c8c6a5eec950b712b2401008e326c",
+            "sent_date": "2020-11-16T04:55:09.958Z",
+            "message": "Hi. Your bio is so perfect for 2020. What type of software do you write? I spent my weekend updating my personal site and relearning front end development. I’m usually a data engineer so all of my websites look terrible.",
+            "to": "5eec950b712b2401008e326c",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-11-16T04:55:09.958Z",
+            "timestamp": 1605502509958
+        }
+    ]
+}

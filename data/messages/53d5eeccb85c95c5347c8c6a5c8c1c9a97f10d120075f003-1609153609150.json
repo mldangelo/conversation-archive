@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5dfb6c31746e36010016fd93",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c8c1c9a97f10d120075f003",
+        "sent_date": "2019-12-19T12:25:21.567Z",
+        "message": "Also lol that cat picture is cute",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c8c1c9a97f10d120075f003",
+        "created_date": "2019-12-19T12:25:21.567Z",
+        "timestamp": 1576758321567
+    },
+    {
+        "_id": "5dfb6c26184a47010038e903",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c8c1c9a97f10d120075f003",
+        "sent_date": "2019-12-19T12:25:10.406Z",
+        "message": "What if I want to hear about your startup?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c8c1c9a97f10d120075f003",
+        "created_date": "2019-12-19T12:25:10.406Z",
+        "timestamp": 1576758310406
+    }
+]

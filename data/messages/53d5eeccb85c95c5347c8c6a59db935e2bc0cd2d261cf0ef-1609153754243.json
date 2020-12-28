@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5bcfec62d99ae5650948c651",
+        "match_id": "53d5eeccb85c95c5347c8c6a59db935e2bc0cd2d261cf0ef",
+        "sent_date": "2018-10-24T03:52:02.580Z",
+        "message": "Hi Alex, where did you move from?",
+        "to": "59db935e2bc0cd2d261cf0ef",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-24T03:52:02.580Z",
+        "timestamp": 1540353122580
+    }
+]

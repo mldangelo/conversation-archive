@@ -1,0 +1,24 @@
+{
+    "messages": [
+        {
+            "_id": "5fdfa8e227db6c01008fd458",
+            "match_id": "53d5eeccb85c95c5347c8c6a5fde60f7b44ee70100f38bef",
+            "sent_date": "2020-12-20T19:41:22.130Z",
+            "message": "Hi! I remember enjoying our conversation last time we matched, and I can’t remember why we stopped talking. I’m sorry if it was my fault. I hope you’ve been well. Are you planning to stay in the city this winter?",
+            "to": "5fde60f7b44ee70100f38bef",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-20T19:41:22.130Z",
+            "timestamp": 1608493282130
+        },
+        {
+            "_id": "5fdfa7d6bb5c0e0100a97773",
+            "match_id": "53d5eeccb85c95c5347c8c6a5fde60f7b44ee70100f38bef",
+            "sent_date": "2020-12-20T19:36:54.025Z",
+            "message": "👋 ",
+            "to": "53d5eeccb85c95c5347c8c6a",
+            "from": "5fde60f7b44ee70100f38bef",
+            "created_date": "2020-12-20T19:36:54.025Z",
+            "timestamp": 1608493014025
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "5bff58cf96f4f9ae094ab89c",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-29T03:11:11.078Z",
+        "message": "Cookshop has a fanstatic brunch. Most of my favorite brunch spots are in Nolita. Do you ever travel south of Chelsea? Also, please tell me about your burning man camp. I’ve been 5 times with moon cheese and black lotus.",
+        "to": "580681af18fcb43114da5889",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-11-29T03:11:11.078Z",
+        "timestamp": 1543461071078
+    },
+    {
+        "_id": "5bf03a56fdf06a8e09bc957f",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-17T15:57:10.416Z",
+        "message": "Just tried cookshop the other day and it’s my favorite brunch so far",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "580681af18fcb43114da5889",
+        "created_date": "2018-11-17T15:57:10.416Z",
+        "timestamp": 1542470230416
+    },
+    {
+        "_id": "5bf03a4329f131325eaec268",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-17T15:56:51.887Z",
+        "message": "I certainly never turn them down!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "580681af18fcb43114da5889",
+        "created_date": "2018-11-17T15:56:51.887Z",
+        "timestamp": 1542470211887
+    },
+    {
+        "_id": "5bebb4ba870ef2b009168086",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-14T05:38:02.909Z",
+        "message": "Hi! No problem! I’ve been in meatpacking for a couple years and I was in TriBeCa before. Are you looking for restaurant recommendations?",
+        "to": "580681af18fcb43114da5889",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-11-14T05:38:02.909Z",
+        "timestamp": 1542173882909
+    },
+    {
+        "_id": "5beba17660bf26a909284130",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-14T04:15:50.369Z",
+        "message": "Have you been in this neighborhood a while? I just moved in September",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "580681af18fcb43114da5889",
+        "created_date": "2018-11-14T04:15:50.369Z",
+        "timestamp": 1542168950369
+    },
+    {
+        "_id": "5beba15aede356d009b43902",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-14T04:15:22.829Z",
+        "message": "I’m actually in Chelsea also, close to WV",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "580681af18fcb43114da5889",
+        "created_date": "2018-11-14T04:15:22.829Z",
+        "timestamp": 1542168922829
+    },
+    {
+        "_id": "5beba133d89ab993090ffcbc",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-14T04:14:43.808Z",
+        "message": "Sorry I’m very slow on this app!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "580681af18fcb43114da5889",
+        "created_date": "2018-11-14T04:14:43.808Z",
+        "timestamp": 1542168883808
+    },
+    {
+        "_id": "5beba1288c6b9ac709d1c3d0",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-14T04:14:32.822Z",
+        "message": "Hey Michael",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "580681af18fcb43114da5889",
+        "created_date": "2018-11-14T04:14:32.822Z",
+        "timestamp": 1542168872822
+    },
+    {
+        "_id": "5be7757af03ca7b4097aef1a",
+        "match_id": "53d5eeccb85c95c5347c8c6a580681af18fcb43114da5889",
+        "sent_date": "2018-11-11T00:19:06.833Z",
+        "message": "Hi Jessica! Where are you based downtown? I’m in meatpacking.",
+        "to": "580681af18fcb43114da5889",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-11-11T00:19:06.833Z",
+        "timestamp": 1541895546833
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5b4f4ba96101c38a0959c662",
+        "match_id": "53d5eeccb85c95c5347c8c6a57cb60bf96bbca632d41cf3f",
+        "sent_date": "2018-07-18T14:16:09.536Z",
+        "message": "What's your favorite dinosaur? What turn of phrase makes your smile? Are Siamese cats smarter than the rest of us? Are you looking for volunteers to travel the world?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "57cb60bf96bbca632d41cf3f",
+        "created_date": "2018-07-18T14:16:09.536Z",
+        "timestamp": 1531923369536
+    },
+    {
+        "_id": "5b4f4b27cbeae598090001b3",
+        "match_id": "53d5eeccb85c95c5347c8c6a57cb60bf96bbca632d41cf3f",
+        "sent_date": "2018-07-18T14:13:59.184Z",
+        "message": "The prisma colored pencils that turn into watercolors. Right now the favorite game is scythe, army yashica-D is in bad need of repair and that last one is bold!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "57cb60bf96bbca632d41cf3f",
+        "created_date": "2018-07-18T14:13:59.184Z",
+        "timestamp": 1531923239184
+    },
+    {
+        "_id": "5b3eda0d82acad8a09f1c43d",
+        "match_id": "53d5eeccb85c95c5347c8c6a57cb60bf96bbca632d41cf3f",
+        "sent_date": "2018-07-06T02:55:09.789Z",
+        "message": "Hey Eva! A few questions. What are your favorite colored pencils? What are your favorite board games? Is that your Yashica-D? And are you looking for marriage proposals? ",
+        "to": "57cb60bf96bbca632d41cf3f",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T02:55:09.789Z",
+        "timestamp": 1530845709789
+    },
+    {
+        "_id": "5b37c27f683fe0aa09fd5adc",
+        "match_id": "53d5eeccb85c95c5347c8c6a57cb60bf96bbca632d41cf3f",
+        "sent_date": "2018-06-30T17:48:47.526Z",
+        "message": "You had me at colored pencils.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "57cb60bf96bbca632d41cf3f",
+        "created_date": "2018-06-30T17:48:47.526Z",
+        "timestamp": 1530380927526
+    }
+]

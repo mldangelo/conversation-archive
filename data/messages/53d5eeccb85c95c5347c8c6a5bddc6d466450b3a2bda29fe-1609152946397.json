@@ -1,0 +1,24 @@
+{
+    "messages": [
+        {
+            "_id": "5fc83736789b0b0100cf2588",
+            "match_id": "53d5eeccb85c95c5347c8c6a5bddc6d466450b3a2bda29fe",
+            "sent_date": "2020-12-03T00:54:14.561Z",
+            "message": "If you do anything else, what would you do?",
+            "to": "5bddc6d466450b3a2bda29fe",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-03T00:54:14.561Z",
+            "timestamp": 1606956854561
+        },
+        {
+            "_id": "5fc836e64cf962010050508d",
+            "match_id": "53d5eeccb85c95c5347c8c6a5bddc6d466450b3a2bda29fe",
+            "sent_date": "2020-12-03T00:52:53.992Z",
+            "message": "Hi. I also work (pseudo)finance and feel dead inside.",
+            "to": "5bddc6d466450b3a2bda29fe",
+            "from": "53d5eeccb85c95c5347c8c6a",
+            "created_date": "2020-12-03T00:52:53.992Z",
+            "timestamp": 1606956773992
+        }
+    ]
+}

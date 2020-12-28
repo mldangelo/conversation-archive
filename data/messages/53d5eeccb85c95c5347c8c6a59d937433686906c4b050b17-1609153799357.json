@@ -1,0 +1,433 @@
+[
+    {
+        "_id": "5b8cbda9c8e8cda109facbcf",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:50:49.417Z",
+        "message": "And I do actually. Tomorrow is a big day, I’ve got beach in the morning and a movie marathon in the evening",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:50:49.417Z",
+        "timestamp": 1535950249417
+    },
+    {
+        "_id": "5b8cbd89af4c887309b17099",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:50:17.246Z",
+        "message": "I’d let you read it some time... perhaps when I am back on my computer and not my phone.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:50:17.246Z",
+        "timestamp": 1535950217246
+    },
+    {
+        "_id": "5b8cbd355251649163c2b0e5",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:48:53.058Z",
+        "message": "Source code and PowerPoints? Sounds exciting",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:48:53.058Z",
+        "timestamp": 1535950133058
+    },
+    {
+        "_id": "5b8cbaad70520c3b6a2206d9",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:38:05.594Z",
+        "message": "Do you have anything planned tomorrow?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:38:05.594Z",
+        "timestamp": 1535949485594
+    },
+    {
+        "_id": "5b8cba9570520c3b6a2204fd",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:37:41.127Z",
+        "message": "May I read your poem?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:37:41.127Z",
+        "timestamp": 1535949461127
+    },
+    {
+        "_id": "5b8cba8f189b8fda09652d6a",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:37:35.668Z",
+        "message": "I like that you write poetry. I only tend to write source code and power point presentations.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:37:35.668Z",
+        "timestamp": 1535949455668
+    },
+    {
+        "_id": "5b8cba657614859409ce06ea",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:36:53.959Z",
+        "message": "Otherwise there was lots of chillaxing",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:36:53.959Z",
+        "timestamp": 1535949413959
+    },
+    {
+        "_id": "5b8cba3f70520c3b6a21ff04",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:36:15.319Z",
+        "message": "My day was pretty ok. I finished a poem I have been working on so that was an accomplishment...",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:36:15.319Z",
+        "timestamp": 1535949375319
+    },
+    {
+        "_id": "5b8cb758ec9adecb0909384b",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:23:52.069Z",
+        "message": "How was your day? Did you do anything notable?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:23:52.069Z",
+        "timestamp": 1535948632069
+    },
+    {
+        "_id": "5b8cb744b48981dd1e8aa1f5",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:23:32.328Z",
+        "message": "With the current and wind it would take less time",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:23:32.328Z",
+        "timestamp": 1535948612328
+    },
+    {
+        "_id": "5b8cb726ea0816315e03d128",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:23:02.139Z",
+        "message": "Well, it’s a heavy boat and I am a terrible sailor.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:23:02.139Z",
+        "timestamp": 1535948582139
+    },
+    {
+        "_id": "5b8cb47550390f41576c5feb",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:11:33.560Z",
+        "message": "How is it possible that your boat is that slow?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:11:33.560Z",
+        "timestamp": 1535947893560
+    },
+    {
+        "_id": "5b8cb430add9b86309208145",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:10:24.385Z",
+        "message": "And tis very slow!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:10:24.385Z",
+        "timestamp": 1535947824385
+    },
+    {
+        "_id": "5b8cb420f948614041dc02dc",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:10:08.110Z",
+        "message": "Tis quite far...",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T04:10:08.110Z",
+        "timestamp": 1535947808110
+    },
+    {
+        "_id": "5b8cb3185d26707909c4228f",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:05:44.602Z",
+        "message": "It would take me approximately 3 hours to sail to you, mostly because my boat is very slow.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:05:44.602Z",
+        "timestamp": 1535947544602
+    },
+    {
+        "_id": "5b8cb2a5389fe59c097048c2",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T04:03:49.809Z",
+        "message": "Oh man. I’m on Hudson and 13th. There are 7 stops on the A train between us. That’s a long distance to travel for love.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T04:03:49.809Z",
+        "timestamp": 1535947429809
+    },
+    {
+        "_id": "5b8cb141f9a7ab7e09adaebc",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T03:57:53.400Z",
+        "message": "I’m on the border of Cobble Hill and Brooklyn Heights",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T03:57:53.400Z",
+        "timestamp": 1535947073400
+    },
+    {
+        "_id": "5b8cac171b1ac3a0093a2e26",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T03:35:51.071Z",
+        "message": "Where in Brooklyn are you based?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T03:35:51.071Z",
+        "timestamp": 1535945751071
+    },
+    {
+        "_id": "5b8cabc0add9b863091fea4d",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T03:34:24.810Z",
+        "message": "Well, I like to sail but I dislike burdensome obligation and old shitty sailboats are huge burdens.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T03:34:24.810Z",
+        "timestamp": 1535945664810
+    },
+    {
+        "_id": "5b8cab9ff948614041db6f99",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T03:33:51.746Z",
+        "message": "Those are hard to find. Only 2.5% of people are INTP and even fewer like to sail. I’m not even sure if I like to sail.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T03:33:51.746Z",
+        "timestamp": 1535945631746
+    },
+    {
+        "_id": "5b8c96d4c63fd185096cd918",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T02:05:08.966Z",
+        "message": "I’m looking specifically for an INTP who likes to sail",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T02:05:08.966Z",
+        "timestamp": 1535940308966
+    },
+    {
+        "_id": "5b8c90c6b9e220900934c36d",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T01:39:18.069Z",
+        "message": "This is madness. What are you even looking for / doing on tinder?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T01:39:18.069Z",
+        "timestamp": 1535938758069
+    },
+    {
+        "_id": "5b8c9093c8e8cda109f7797a",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T01:38:27.528Z",
+        "message": "Does that mean you don’t keep a smaller boat on your larger boat?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T01:38:27.528Z",
+        "timestamp": 1535938707528
+    },
+    {
+        "_id": "5b8c90649d5e9b8409b8080e",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T01:37:40.246Z",
+        "message": "Ah I don’t have one of those...",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T01:37:40.246Z",
+        "timestamp": 1535938660246
+    },
+    {
+        "_id": "5b8c8b9b6bad02cb099d9b1d",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T01:17:15.301Z",
+        "message": "For a while I kept a dingy at my office. All of my coworkers were mad at me",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-03T01:17:15.301Z",
+        "timestamp": 1535937435301
+    },
+    {
+        "_id": "5b8c7e2765a1e06909abe378",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-03T00:19:51.963Z",
+        "message": "No I keep in my spare room",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-03T00:19:51.963Z",
+        "timestamp": 1535933991963
+    },
+    {
+        "_id": "5b8c74cd189b8fda0961d4df",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:39:57.132Z",
+        "message": "So does this mean that you don’t keep a sailboat in lower manhattan?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T23:39:57.132Z",
+        "timestamp": 1535931597132,
+        "is_liked": true
+    },
+    {
+        "_id": "5b8c74afd8e1e16a09adc26f",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:39:27.903Z",
+        "message": "But I keep it about 10 minutes from my apartment and it can be a nice escape in the summer",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T23:39:27.903Z",
+        "timestamp": 1535931567903
+    },
+    {
+        "_id": "5b8c7483c59785745e22cd31",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:38:43.671Z",
+        "message": "Yes! It’s an old shitty sailboat. The inboard motor recently started stalling at high throttle. I thought the fuel pump was the culprit but it doesn’t seem to be, so I started troubleshooting other probable causes",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T23:38:43.671Z",
+        "timestamp": 1535931523671
+    },
+    {
+        "_id": "5b8c7377b68318535ea24041",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:34:15.857Z",
+        "message": "Slash you have a sailboat?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T23:34:15.857Z",
+        "timestamp": 1535931255857
+    },
+    {
+        "_id": "5b8c7370cb6d918109771200",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:34:08.146Z",
+        "message": "Sounds productive! I’m pretty sailing ignorant- why would you be taking apart the motor?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T23:34:08.146Z",
+        "timestamp": 1535931248146
+    },
+    {
+        "_id": "5b8c71dbb9e22090093255fb",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:27:23.846Z",
+        "message": "I've been doing all of the chores I’ve been putting off for weeks. I bought new glasses, returned some things, re-organized all of the things in my apartment, cleaned up my workshop, and took apart my sailboats inboard motor yesterday. I think I’m going to put it back together tomorrow. ",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T23:27:23.846Z",
+        "timestamp": 1535930843846
+    },
+    {
+        "_id": "5b8c7144fab6050f5e888f18",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:24:52.925Z",
+        "message": "I’ve actually just been spending time with some friends in the city this weekend and laying low. Trying to soak up the quiet while everyone is out of town. How about you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T23:24:52.925Z",
+        "timestamp": 1535930692925
+    },
+    {
+        "_id": "5b8c711cb9e2209009324ae3",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:24:12.188Z",
+        "message": "Yeah falling into a routine is super easy. But you’ve got to make some time for fun!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T23:24:12.188Z",
+        "timestamp": 1535930652188
+    },
+    {
+        "_id": "5b8c6ccd0a7d1301660ae145",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:05:49.495Z",
+        "message": "Did you decide to do anything fun or memorable this weekend?",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T23:05:49.495Z",
+        "timestamp": 1535929549495
+    },
+    {
+        "_id": "5b8c6c96e5334fd5694ee910",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T23:04:54.854Z",
+        "message": "That’s a really great point. I don’t often take advantage of that fact either. I am really good at falling into routines and sequestering myself between my office and my apartment. My whole universe seems to exist along my bike path.",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T23:04:54.854Z",
+        "timestamp": 1535929494854
+    },
+    {
+        "_id": "5b8c3df4b9e22090092e3444",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T19:45:56.252Z",
+        "message": "But for now you’re in the one of the best cities in the world!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T19:45:56.252Z",
+        "timestamp": 1535917556252
+    },
+    {
+        "_id": "5b8c3de0a07dfda10959c464",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T19:45:36.517Z",
+        "message": "Yeah well you’ve got some time to figure out your forever",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T19:45:36.517Z",
+        "timestamp": 1535917536517
+    },
+    {
+        "_id": "5b8c3d855251649163b90312",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T19:44:05.800Z",
+        "message": "I like New York a lot but I don’t know if I want to be here forever",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T19:44:05.800Z",
+        "timestamp": 1535917445800
+    },
+    {
+        "_id": "5b8c3d74c59785745e1e84c8",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T19:43:48.839Z",
+        "message": "I would probably move back to SF if I could afford a house there",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T19:43:48.839Z",
+        "timestamp": 1535917428839
+    },
+    {
+        "_id": "5b8c3d2e7614859409c7dee3",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T19:42:38.397Z",
+        "message": "I think they are impossible to compare BUT I’m definitely liking New York more 😏",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T19:42:38.397Z",
+        "timestamp": 1535917358397
+    },
+    {
+        "_id": "5b8c3d08f875d27509a5a551",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T19:42:00.726Z",
+        "message": "I was there for two years but my mom is from the Bay so I’ve been spending time there since I was a kid.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59d937433686906c4b050b17",
+        "created_date": "2018-09-02T19:42:00.726Z",
+        "timestamp": 1535917320726
+    },
+    {
+        "_id": "5b8c30446f2127ad090b9135",
+        "match_id": "53d5eeccb85c95c5347c8c6a59d937433686906c4b050b17",
+        "sent_date": "2018-09-02T18:47:32.580Z",
+        "message": "Hey, how long were you based in SF? I still can’t decide if I like New York or SF more",
+        "to": "59d937433686906c4b050b17",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-09-02T18:47:32.580Z",
+        "timestamp": 1535914052580
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5f36e5234a8f3f0100a899f0",
+        "match_id": "53d5eeccb85c95c5347c8c6a577e348c4252756b4174651e",
+        "sent_date": "2020-08-14T19:25:23.343Z",
+        "message": "Also want to note that I love your tattoo and hope that it’s a reference to D&D.",
+        "to": "577e348c4252756b4174651e",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-14T19:25:23.343Z",
+        "timestamp": 1597433123343
+    },
+    {
+        "_id": "5f36e4afb87bea01001ffe96",
+        "match_id": "53d5eeccb85c95c5347c8c6a577e348c4252756b4174651e",
+        "sent_date": "2020-08-14T19:23:27.472Z",
+        "message": "There’s nothing better than a fresh Micron 01 and a new notebook. My office is next to a Blick - I’m responsible for a significant percentage of their revenue.",
+        "to": "577e348c4252756b4174651e",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-14T19:23:27.472Z",
+        "timestamp": 1597433007472
+    }
+]

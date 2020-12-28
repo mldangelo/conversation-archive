@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5d352546cdf04701009829b5",
+        "match_id": "53d5eeccb85c95c5347c8c6a589a8a5ed95256e23ac0ab4b",
+        "sent_date": "2019-07-22T02:53:57.987Z",
+        "message": "Hey Ana! Where in New York are you based?",
+        "to": "589a8a5ed95256e23ac0ab4b",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-07-22T02:53:57.987Z",
+        "timestamp": 1563764037987
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5c077044ac0db695060aa825",
+        "match_id": "52c4259dcd823cbc280002e453d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-12-05T06:29:24.506Z",
+        "message": "What is your favorite salty food?",
+        "to": "52c4259dcd823cbc280002e4",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-12-05T06:29:24.506Z",
+        "timestamp": 1543991364506
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5a5ec690cefaa7670afb697b",
+        "match_id": "53d5eeccb85c95c5347c8c6a59345db341264cb43254966a",
+        "sent_date": "2018-01-17T03:44:16.472Z",
+        "message": "I don’t know much about data journalism unfortunately. You’re going to have to school me on my own career lol.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59345db341264cb43254966a",
+        "created_date": "2018-01-17T03:44:16.472Z",
+        "timestamp": 1516160656472
+    },
+    {
+        "_id": "5a5ec6162884da450a23dc8f",
+        "match_id": "53d5eeccb85c95c5347c8c6a59345db341264cb43254966a",
+        "sent_date": "2018-01-17T03:42:14.907Z",
+        "message": "I also tend to write about business",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59345db341264cb43254966a",
+        "created_date": "2018-01-17T03:42:14.907Z",
+        "timestamp": 1516160534907
+    },
+    {
+        "_id": "5a5ec60aea2f0bb50ada9a51",
+        "match_id": "53d5eeccb85c95c5347c8c6a59345db341264cb43254966a",
+        "sent_date": "2018-01-17T03:42:02.398Z",
+        "message": "Hmm.. honestly I love writing about passionate people. Whether that passion involves business, creating a product, instigating social change, or bringing awareness to a specific topic, I feel that passion breeds passion. And stories like that are the most important because it ultimately inspires people.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59345db341264cb43254966a",
+        "created_date": "2018-01-17T03:42:02.398Z",
+        "timestamp": 1516160522398
+    },
+    {
+        "_id": "5a5ec5d4271399930a49ce39",
+        "match_id": "53d5eeccb85c95c5347c8c6a59345db341264cb43254966a",
+        "sent_date": "2018-01-17T03:41:08.539Z",
+        "message": "Hey 🙂",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "59345db341264cb43254966a",
+        "created_date": "2018-01-17T03:41:08.539Z",
+        "timestamp": 1516160468539
+    },
+    {
+        "_id": "5a5cd0367451303f0a2769fa",
+        "match_id": "53d5eeccb85c95c5347c8c6a59345db341264cb43254966a",
+        "sent_date": "2018-01-15T16:00:54.878Z",
+        "message": "What do you like to write about? I’ve fallen in love with data driven journalism. I especially love the NYT data science team, 538, and oddly enough (don’t judge me) buzzfeed has some really great data driven content.  Sorry for the short first message. My phone slipped. I normally write more than “Hey,”.",
+        "to": "59345db341264cb43254966a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-01-15T16:00:54.878Z",
+        "timestamp": 1516032054878
+    },
+    {
+        "_id": "5a5ccf6e76771da30a537bed",
+        "match_id": "53d5eeccb85c95c5347c8c6a59345db341264cb43254966a",
+        "sent_date": "2018-01-15T15:57:34.277Z",
+        "message": "Hey,",
+        "to": "59345db341264cb43254966a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-01-15T15:57:34.277Z",
+        "timestamp": 1516031854277
+    }
+]

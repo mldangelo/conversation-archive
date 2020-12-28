@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5f3604ccf4e44c01003bc42b",
+        "match_id": "512bc6bbe8592980110005ec53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-14T03:28:12.971Z",
+        "message": "Hey, where in the city are you based?",
+        "to": "512bc6bbe8592980110005ec",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-14T03:28:12.971Z",
+        "timestamp": 1597375692971
+    }
+]

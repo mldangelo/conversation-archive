@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5f3ca368e482ce0100a93688",
+        "match_id": "53d5eeccb85c95c5347c8c6a5ed3b2067d94290100205c05",
+        "sent_date": "2020-08-19T03:58:32.145Z",
+        "message": "*should be similar",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5ed3b2067d94290100205c05",
+        "created_date": "2020-08-19T03:58:32.145Z",
+        "timestamp": 1597809512145
+    },
+    {
+        "_id": "5f3ca351ebf71c01004ccdc1",
+        "match_id": "53d5eeccb85c95c5347c8c6a5ed3b2067d94290100205c05",
+        "sent_date": "2020-08-19T03:58:09.614Z",
+        "message": "I don’t have the answer, I don’t think the color of glass has that much impact. It’s more about if the glass has any low E coating. A light tint or clear shouldn’t be similar. Also 200 sqf is too big in my option, it’s probably not good for being sustainable.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5ed3b2067d94290100205c05",
+        "created_date": "2020-08-19T03:58:09.614Z",
+        "timestamp": 1597809489614
+    },
+    {
+        "_id": "5f3ca350f4e44c01002b1e96",
+        "match_id": "53d5eeccb85c95c5347c8c6a5ed3b2067d94290100205c05",
+        "sent_date": "2020-08-19T03:58:08.615Z",
+        "message": "I don’t have the answer, I don’t think the color of glass has that much impact. It’s more about if the glass has any low E coating. A light tint or clear shouldn’t be similar. Also 200 sqf is too big in my option, it’s probably not good for being sustainable.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5ed3b2067d94290100205c05",
+        "created_date": "2020-08-19T03:58:08.615Z",
+        "timestamp": 1597809488615
+    },
+    {
+        "_id": "5f3ca0be67095e0100366f73",
+        "match_id": "53d5eeccb85c95c5347c8c6a5ed3b2067d94290100205c05",
+        "sent_date": "2020-08-19T03:47:10.021Z",
+        "message": "Ok. What is the ideal tinting/clouding for a sky light? I’m planning ~200 square feet of skylight and am bad at thermal engineering. I want it to be warm enough for a cat to bask in the suns rays but not warm enough to cause my energy bills to be extremely high",
+        "to": "5ed3b2067d94290100205c05",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-19T03:47:10.021Z",
+        "timestamp": 1597808830021
+    },
+    {
+        "_id": "5f3c9f8da03a2e0100c65072",
+        "match_id": "53d5eeccb85c95c5347c8c6a5ed3b2067d94290100205c05",
+        "sent_date": "2020-08-19T03:42:05.220Z",
+        "message": "sure",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5ed3b2067d94290100205c05",
+        "created_date": "2020-08-19T03:42:05.220Z",
+        "timestamp": 1597808525220
+    },
+    {
+        "_id": "5f3c94d73a7f1201009d815a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5ed3b2067d94290100205c05",
+        "sent_date": "2020-08-19T02:56:23.491Z",
+        "message": "Hi! Can I ask you architecture related questions? I’m renovating an apartment and am in way over my head.",
+        "to": "5ed3b2067d94290100205c05",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-19T02:56:23.491Z",
+        "timestamp": 1597805783491
+    }
+]

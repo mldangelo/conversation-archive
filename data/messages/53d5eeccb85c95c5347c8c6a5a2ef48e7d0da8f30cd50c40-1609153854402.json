@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "5b4259fe0fb241f809400b08",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T18:37:50.570Z",
+        "message": "My number is +17187302803",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T18:37:50.570Z",
+        "timestamp": 1531075070570
+    },
+    {
+        "_id": "5b4259bf9bfa4b1f0a0c4027",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T18:36:47.197Z",
+        "message": "Could catch up soonish if you’re free :)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T18:36:47.197Z",
+        "timestamp": 1531075007197
+    },
+    {
+        "_id": "5b4259b7cc18ae90096f0e63",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T18:36:39.893Z",
+        "message": "I’m in west village so we’re basically neighbours!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T18:36:39.893Z",
+        "timestamp": 1531074999893
+    },
+    {
+        "_id": "5b42577fffbfc5ae0951d4d8",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T18:27:11.424Z",
+        "message": "I'm based in Meatpacking. Feel free to message me if you're interested in coffee or a drink later. ",
+        "to": "5a2ef48e7d0da8f30cd50c40",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-08T18:27:11.424Z",
+        "timestamp": 1531074431424
+    },
+    {
+        "_id": "5b424df55d8c84750954933d",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T17:46:29.834Z",
+        "message": "I would love to. Where are you based? ",
+        "to": "5a2ef48e7d0da8f30cd50c40",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-08T17:46:29.834Z",
+        "timestamp": 1531071989834
+    },
+    {
+        "_id": "5b424d98476e7a055a08aeee",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T17:44:56.723Z",
+        "message": "Sounds like you had quite a full on day yesterday!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T17:44:56.723Z",
+        "timestamp": 1531071896723
+    },
+    {
+        "_id": "5b424d84afac9afc32da793e",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T17:44:36.603Z",
+        "message": "Could catch up for a drink later if you’re free :)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T17:44:36.603Z",
+        "timestamp": 1531071876603
+    },
+    {
+        "_id": "5b4240b65d8c84750953b6fe",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T16:49:58.137Z",
+        "message": "That’s so cool. Ive explored Stockholm, Gothenburg, and Malmo. I really like Sweden. I’m incredibly interested in seeing Australia, but I haven’t had the opportunity to visit yet. \nI went surfing yesterday in rockaway, cleaned my apartment, and took a nap. I don’t have plans today (yet). What are you up to?",
+        "to": "5a2ef48e7d0da8f30cd50c40",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-08T16:49:58.137Z",
+        "timestamp": 1531068598137
+    },
+    {
+        "_id": "5b420aa3abf967d509da915a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T12:59:15.205Z",
+        "message": "What are you up to this weekend?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T12:59:15.205Z",
+        "timestamp": 1531054755205
+    },
+    {
+        "_id": "5b420a9c6a6b2ab428c39bc9",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-08T12:59:08.887Z",
+        "message": "Came here from Australia but originally from Sweden",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5a2ef48e7d0da8f30cd50c40",
+        "created_date": "2018-07-08T12:59:08.887Z",
+        "timestamp": 1531054748887
+    },
+    {
+        "_id": "5b3ffeecf917b14b316b34e4",
+        "match_id": "53d5eeccb85c95c5347c8c6a5a2ef48e7d0da8f30cd50c40",
+        "sent_date": "2018-07-06T23:44:44.380Z",
+        "message": "Hey Isabelle! Where did you move to New York from?",
+        "to": "5a2ef48e7d0da8f30cd50c40",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T23:44:44.380Z",
+        "timestamp": 1530920684380
+    }
+]

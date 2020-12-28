@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5d6dc9d6d013f90100437c55",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c64cb972512fa1100720a7d",
+        "sent_date": "2019-09-03T02:03:02.649Z",
+        "message": "Even if you generally don’t, Stefan Zweig is still v good :)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c64cb972512fa1100720a7d",
+        "created_date": "2019-09-03T02:03:02.649Z",
+        "timestamp": 1567476182649
+    },
+    {
+        "_id": "5d6dc9b71d0a6b0100fd617e",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c64cb972512fa1100720a7d",
+        "sent_date": "2019-09-03T02:02:31.817Z",
+        "message": "Hey! Thanks. We just read The Post Office Girl by Stefan Zweig. Highly recommend if you, like I (apparently), have the literary taste of a 90-year old Austrian",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c64cb972512fa1100720a7d",
+        "created_date": "2019-09-03T02:02:31.817Z",
+        "timestamp": 1567476151817
+    },
+    {
+        "_id": "5d6c3389ac3fe4010064b4b6",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c64cb972512fa1100720a7d",
+        "sent_date": "2019-09-01T21:09:29.330Z",
+        "message": "Hi! I love your taste in music. What are you and your grandmother currently reading?",
+        "to": "5c64cb972512fa1100720a7d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-09-01T21:09:29.330Z",
+        "timestamp": 1567372169330
+    }
+]

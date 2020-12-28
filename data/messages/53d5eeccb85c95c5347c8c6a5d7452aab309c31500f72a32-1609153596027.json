@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5e1e82b441fc8a010088dbc0",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d7452aab309c31500f72a32",
+        "sent_date": "2020-01-15T03:10:44.346Z",
+        "message": "Oh hi Michael! Not the weekend anymore... haha",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5d7452aab309c31500f72a32",
+        "created_date": "2020-01-15T03:10:44.346Z",
+        "timestamp": 1579057844346
+    },
+    {
+        "_id": "5e19ecaccbfc5a0100337d26",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d7452aab309c31500f72a32",
+        "sent_date": "2020-01-11T15:41:32.772Z",
+        "message": "Hi Anne! What are you up to this weekend?",
+        "to": "5d7452aab309c31500f72a32",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-01-11T15:41:32.772Z",
+        "timestamp": 1578757292772
+    }
+]

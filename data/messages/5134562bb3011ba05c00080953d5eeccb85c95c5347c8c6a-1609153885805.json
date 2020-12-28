@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5b3ed48fafd0d4465d6e309c",
+        "match_id": "5134562bb3011ba05c00080953d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T02:31:43.941Z",
+        "message": "I love podcasts and you seem interesting and adorable and I am slightly intimidated by the attractive men you’re posing with. But I am actually interested in Catan.",
+        "to": "5134562bb3011ba05c000809",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T02:31:43.941Z",
+        "timestamp": 1530844303941
+    },
+    {
+        "_id": "5b3ed41c8c55ed4d3776cef1",
+        "match_id": "5134562bb3011ba05c00080953d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T02:29:47.985Z",
+        "message": "Hey Camila! Can we play Catan?",
+        "to": "5134562bb3011ba05c000809",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T02:29:47.985Z",
+        "timestamp": 1530844187985
+    }
+]

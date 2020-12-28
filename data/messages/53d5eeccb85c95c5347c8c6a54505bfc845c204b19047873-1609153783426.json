@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "5bbec3f05009bca05699149d",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-11T03:30:56.196Z",
+        "message": "do you like cold places?",
+        "to": "54505bfc845c204b19047873",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-11T03:30:56.196Z",
+        "timestamp": 1539228656196
+    },
+    {
+        "_id": "5bbec3b8a465ca2152b9cfd1",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-11T03:30:00.878Z",
+        "message": "Near the north coast of Spitsbergen, about two days by snowmobile from Longyearbyen.",
+        "to": "54505bfc845c204b19047873",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-11T03:30:00.878Z",
+        "timestamp": 1539228600878
+    },
+    {
+        "_id": "5bbea9e5b7952cee51339ca4",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-11T01:39:49.036Z",
+        "message": "Where are you in your snow pic?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "54505bfc845c204b19047873",
+        "created_date": "2018-10-11T01:39:49.036Z",
+        "timestamp": 1539221989036
+    },
+    {
+        "_id": "5bbea9dde693a9ba04423504",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-11T01:39:41.780Z",
+        "message": "Patagonia, on the Argentina side",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "54505bfc845c204b19047873",
+        "created_date": "2018-10-11T01:39:41.780Z",
+        "timestamp": 1539221981780
+    },
+    {
+        "_id": "5bbd7161c610209d096f28fb",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-10T03:26:25.533Z",
+        "message": "Hrm. That seems like a reasonable answer. Where were you?",
+        "to": "54505bfc845c204b19047873",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-10T03:26:25.533Z",
+        "timestamp": 1539141985533
+    },
+    {
+        "_id": "5bbd437c13bb518409577db3",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-10T00:10:36.563Z",
+        "message": "Good taste! And I needed an ice pick to conquer a glacier",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "54505bfc845c204b19047873",
+        "created_date": "2018-10-10T00:10:36.563Z",
+        "timestamp": 1539130236563
+    },
+    {
+        "_id": "5bbabbfb29621bca09c2445c",
+        "match_id": "53d5eeccb85c95c5347c8c6a54505bfc845c204b19047873",
+        "sent_date": "2018-10-08T02:07:55.942Z",
+        "message": "Hi Amy. My favorite cocktail is also gin and tonic.  Can you please explain your ice pick picture?",
+        "to": "54505bfc845c204b19047873",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-10-08T02:07:55.942Z",
+        "timestamp": 1538964475942
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5b3f7907853235f2099190c8",
+        "match_id": "5116fa8eb294435a0700004f53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T14:13:27.694Z",
+        "message": "Haha I wish she was mine! She’s actually a Pomsky, and I was just pup sitting",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5116fa8eb294435a0700004f",
+        "created_date": "2018-07-06T14:13:27.694Z",
+        "timestamp": 1530886407694
+    },
+    {
+        "_id": "5b3ed8de28b3e7190ab5f031",
+        "match_id": "5116fa8eb294435a0700004f53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T02:50:06.499Z",
+        "message": "Hi Nicki. Is that your husky puppy? If so, please tell me it's a recent picture and please tell me that it lives in new york with you. ",
+        "to": "5116fa8eb294435a0700004f",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T02:50:06.499Z",
+        "timestamp": 1530845406499
+    }
+]

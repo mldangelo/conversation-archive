@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5e6d8ea5507f8301003cd8b5",
+        "match_id": "53d5eeccb85c95c5347c8c6a54a0b9aa6055e86517a70fab",
+        "sent_date": "2020-03-15T02:10:45.221Z",
+        "message": "How did you like the Bay Area? How long were you there for?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "54a0b9aa6055e86517a70fab",
+        "created_date": "2020-03-15T02:10:45.221Z",
+        "timestamp": 1584238245221
+    },
+    {
+        "_id": "5e6d8e780585dd010004410a",
+        "match_id": "53d5eeccb85c95c5347c8c6a54a0b9aa6055e86517a70fab",
+        "sent_date": "2020-03-15T02:10:00.630Z",
+        "message": "Hi there! Hmm not as often as I’d like! Usually three times a year at least - Easter, thanksgiving and Christmas! But if there’s a good deal I might try to make it for my parents or a friends birthday lol",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "54a0b9aa6055e86517a70fab",
+        "created_date": "2020-03-15T02:10:00.630Z",
+        "timestamp": 1584238200630
+    },
+    {
+        "_id": "5e6d27c2e513f101003e4ff1",
+        "match_id": "53d5eeccb85c95c5347c8c6a54a0b9aa6055e86517a70fab",
+        "sent_date": "2020-03-14T18:51:46.480Z",
+        "message": "Hi! How often do you go back and forth between SF and here?",
+        "to": "54a0b9aa6055e86517a70fab",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-03-14T18:51:46.480Z",
+        "timestamp": 1584211906480
+    }
+]

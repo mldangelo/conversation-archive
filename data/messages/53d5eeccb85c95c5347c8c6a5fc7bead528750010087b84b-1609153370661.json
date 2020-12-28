@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5fc846133a7c1a0100ad7e2d",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc7bead528750010087b84b",
+        "sent_date": "2020-12-03T01:57:39.463Z",
+        "message": "Hahaha. Prince street is pretty great though, so I see your dilemma! I would say Rubirosa and Roberta’s are my top 2 these days. Have you been to either?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fc7bead528750010087b84b",
+        "created_date": "2020-12-03T01:57:39.463Z",
+        "timestamp": 1606960659463
+    },
+    {
+        "_id": "5fc839a21290450100cf7cba",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc7bead528750010087b84b",
+        "sent_date": "2020-12-03T01:04:34.585Z",
+        "message": "Hi! What’s your favorite slice in New York? I live two blocks from Prince Street Pizza and feel embarrassed about the frequency of my patronage.",
+        "to": "5fc7bead528750010087b84b",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-03T01:04:34.585Z",
+        "timestamp": 1606957474585
+    }
+]

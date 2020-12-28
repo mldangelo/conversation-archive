@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5f5c1325587e9801006626ad",
+        "match_id": "53d5eeccb85c95c5347c8c6a5eeebab2dd8f780100109006",
+        "sent_date": "2020-09-12T00:15:33.489Z",
+        "message": "But if you’re down, would you want to video call? No pressure or expectations ☺️",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5eeebab2dd8f780100109006",
+        "created_date": "2020-09-12T00:15:33.489Z",
+        "timestamp": 1599869733489
+    },
+    {
+        "_id": "5f5c130015ef0c0100620558",
+        "match_id": "53d5eeccb85c95c5347c8c6a5eeebab2dd8f780100109006",
+        "sent_date": "2020-09-12T00:14:56.786Z",
+        "message": "Yes I’m a visual artist, too... looking at your bio I can tell you I’m currently lacking in ambition, confidence and enthusiasm.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5eeebab2dd8f780100109006",
+        "created_date": "2020-09-12T00:14:56.786Z",
+        "timestamp": 1599869696786
+    },
+    {
+        "_id": "5f5c12c650805c0100a44731",
+        "match_id": "53d5eeccb85c95c5347c8c6a5eeebab2dd8f780100109006",
+        "sent_date": "2020-09-12T00:13:58.935Z",
+        "message": "Hi Michael! You just caught me ending a call with my friend about how I’ve been losing energy for things like tinder/relationships 😬 haha",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5eeebab2dd8f780100109006",
+        "created_date": "2020-09-12T00:13:58.935Z",
+        "timestamp": 1599869638935
+    },
+    {
+        "_id": "5f5c0cd04abd1f01006dc1ab",
+        "match_id": "53d5eeccb85c95c5347c8c6a5eeebab2dd8f780100109006",
+        "sent_date": "2020-09-11T23:48:32.300Z",
+        "message": "Hi Grace! Love your bio. It’s direct, assertive, and uniquely represents you. Can you tell me about your art? Are you also a visual artist?",
+        "to": "5eeebab2dd8f780100109006",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-09-11T23:48:32.300Z",
+        "timestamp": 1599868112300
+    }
+]

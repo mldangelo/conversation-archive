@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5fda423346db2d010038f1cc",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fd1b70ba0848701001fc9af",
+        "sent_date": "2020-12-16T17:21:55.561Z",
+        "message": "So... what are you building",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fd1b70ba0848701001fc9af",
+        "created_date": "2020-12-16T17:21:55.561Z",
+        "timestamp": 1608139315561
+    },
+    {
+        "_id": "5fd83fd514eeac010095e261",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fd1b70ba0848701001fc9af",
+        "sent_date": "2020-12-15T04:47:17.944Z",
+        "message": "I push to create work that is untraditional, innovative, unexpected but also timeless - trends fade",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fd1b70ba0848701001fc9af",
+        "created_date": "2020-12-15T04:47:17.944Z",
+        "timestamp": 1608007637944
+    },
+    {
+        "_id": "5fd83fb1dbaa200100f90fed",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fd1b70ba0848701001fc9af",
+        "sent_date": "2020-12-15T04:46:41.721Z",
+        "message": "I work with brands, startups, artists, and individuals in a variety of capacities depending upon their needs. They vary from helping brands become businesses (going from concept to market) and everything in-between: \n- creative strategy              \n- branding & identity\n- art direction (video/photo)\n- marketing design (print, digital, social, event)\n- packaging design\n- product design\n- web design\n\nAcross a plethora of industries: fashion, beauty, luxury, health & wellness, home, hospitality, interior, food&bev, sports, lifestyle, financial & travel",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fd1b70ba0848701001fc9af",
+        "created_date": "2020-12-15T04:46:41.721Z",
+        "timestamp": 1608007601721
+    },
+    {
+        "_id": "5fd83f965aaedc0100df9391",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fd1b70ba0848701001fc9af",
+        "sent_date": "2020-12-15T04:46:13.999Z",
+        "message": "I’m a Graphic Designer / Art Director and Brand Consultant",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fd1b70ba0848701001fc9af",
+        "created_date": "2020-12-15T04:46:13.999Z",
+        "timestamp": 1608007573999
+    },
+    {
+        "_id": "5fd83f2ed4ce5401003a333c",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fd1b70ba0848701001fc9af",
+        "sent_date": "2020-12-15T04:44:30.609Z",
+        "message": "Lol this is a first",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fd1b70ba0848701001fc9af",
+        "created_date": "2020-12-15T04:44:30.609Z",
+        "timestamp": 1608007470609
+    },
+    {
+        "_id": "5fd82f583c054c0100ca5ed2",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fd1b70ba0848701001fc9af",
+        "sent_date": "2020-12-15T03:36:56.510Z",
+        "message": "Hi! Can you tell me about what you design? In exchange, I’ll tell you about what I’m building.",
+        "to": "5fd1b70ba0848701001fc9af",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-15T03:36:56.510Z",
+        "timestamp": 1608003416510
+    }
+]

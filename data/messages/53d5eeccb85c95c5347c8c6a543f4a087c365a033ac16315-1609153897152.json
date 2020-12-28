@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "5b34527ca07296ab09f483c2",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-28T03:14:04.007Z",
+        "message": "Have you ever explored California before? I've done the drive along the PCH between SF and LA a couple times and once I went all the way from SD to Vancouver. The California coast is gorgeous. I will happily recommend attractions for you. ",
+        "to": "543f4a087c365a033ac16315",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-28T03:14:04.007Z",
+        "timestamp": 1530155644007
+    },
+    {
+        "_id": "5b34522cfb5f4ca56300be75",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-28T03:12:44.932Z",
+        "message": "I have a friend that grew up in Japan. I've visited him a couple of times. I've also gone skiing in Hakuba. I would happily go back many more times. ",
+        "to": "543f4a087c365a033ac16315",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-28T03:12:44.932Z",
+        "timestamp": 1530155564932
+    },
+    {
+        "_id": "5b3451b208ddfcf30927b769",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-28T03:10:42.963Z",
+        "message": "That sounds delicious. Every meal I've ever had in Japan has been in contention for the best meal of my life.  ",
+        "to": "543f4a087c365a033ac16315",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-28T03:10:42.963Z",
+        "timestamp": 1530155442963
+    },
+    {
+        "_id": "5b34516bbcf5ef345262d8e0",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-28T03:09:31.301Z",
+        "message": "The next thing I want to see is the California coast",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "543f4a087c365a033ac16315",
+        "created_date": "2018-06-28T03:09:31.301Z",
+        "timestamp": 1530155371301
+    },
+    {
+        "_id": "5b345155f7ceff170a95c07d",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-28T03:09:09.296Z",
+        "message": "How about you? And why were you there so long?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "543f4a087c365a033ac16315",
+        "created_date": "2018-06-28T03:09:09.296Z",
+        "timestamp": 1530155349296
+    },
+    {
+        "_id": "5b345148cbf3884c3b987124",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-28T03:08:56.326Z",
+        "message": "An Ayurvedic restaurant near omotesando. Best meal of my life",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "543f4a087c365a033ac16315",
+        "created_date": "2018-06-28T03:08:56.326Z",
+        "timestamp": 1530155336326
+    },
+    {
+        "_id": "5b3309c538f302ac0905a3be",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-27T03:51:33.270Z",
+        "message": "Where do you most want to go back to and what would you most like to see next?",
+        "to": "543f4a087c365a033ac16315",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-27T03:51:33.270Z",
+        "timestamp": 1530071493270
+    },
+    {
+        "_id": "5b3309b0f286423c0a6cd97a",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-27T03:51:12.174Z",
+        "message": "Sadly no, but I have spent ~ a month in japan cumulatively. I would love to see Nara.",
+        "to": "543f4a087c365a033ac16315",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-27T03:51:12.174Z",
+        "timestamp": 1530071472174
+    },
+    {
+        "_id": "5b3307cf61d5c5524790ecc1",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-27T03:43:11.655Z",
+        "message": "Have you been?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "543f4a087c365a033ac16315",
+        "created_date": "2018-06-27T03:43:11.655Z",
+        "timestamp": 1530070991655
+    },
+    {
+        "_id": "5b3307ca98f46a6f09ee697d",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-27T03:43:06.109Z",
+        "message": "I did indeed",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "543f4a087c365a033ac16315",
+        "created_date": "2018-06-27T03:43:06.109Z",
+        "timestamp": 1530070986109
+    },
+    {
+        "_id": "5b3307c5f70cb0d209133a63",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-27T03:43:01.881Z",
+        "message": "Heyyy",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "543f4a087c365a033ac16315",
+        "created_date": "2018-06-27T03:43:01.881Z",
+        "timestamp": 1530070981881
+    },
+    {
+        "_id": "5b31ad590086debc0a88bd86",
+        "match_id": "53d5eeccb85c95c5347c8c6a543f4a087c365a033ac16315",
+        "sent_date": "2018-06-26T03:04:57.680Z",
+        "message": "Hey Brianna! Did you go to Nara? ",
+        "to": "543f4a087c365a033ac16315",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-26T03:04:57.680Z",
+        "timestamp": 1529982297680
+    }
+]

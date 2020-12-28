@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5fc85fd2b56135010040c102",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fb6962c51541b010045546f",
+        "sent_date": "2020-12-03T03:47:30.135Z",
+        "message": "Hi Chi, who are your favorite artists?",
+        "to": "5fb6962c51541b010045546f",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-03T03:47:30.135Z",
+        "timestamp": 1606967250135
+    }
+]

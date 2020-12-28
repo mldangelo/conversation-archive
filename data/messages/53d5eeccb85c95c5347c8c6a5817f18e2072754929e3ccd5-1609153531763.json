@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5f43c90e01ca9901000eeee1",
+        "match_id": "53d5eeccb85c95c5347c8c6a5817f18e2072754929e3ccd5",
+        "sent_date": "2020-08-24T14:05:02.943Z",
+        "message": "Hey! I live down in Flatbush but work in Soho. Where are you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5817f18e2072754929e3ccd5",
+        "created_date": "2020-08-24T14:05:02.943Z",
+        "timestamp": 1598277902943
+    },
+    {
+        "_id": "5f43388b57f2b001003fadf3",
+        "match_id": "53d5eeccb85c95c5347c8c6a5817f18e2072754929e3ccd5",
+        "sent_date": "2020-08-24T03:48:27.886Z",
+        "message": "Hey Jasmine! Where in the city are you based?",
+        "to": "5817f18e2072754929e3ccd5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-24T03:48:27.886Z",
+        "timestamp": 1598240907886
+    }
+]

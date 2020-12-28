@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5c71c0420de07f1200578aac",
+        "match_id": "53d5eeccb85c95c5347c8c6a53dd6b49f67e90b847cab882",
+        "sent_date": "2019-02-23T21:50:58.250Z",
+        "message": "Hallo! Wie gehts?",
+        "to": "53dd6b49f67e90b847cab882",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-02-23T21:50:58.250Z",
+        "timestamp": 1550958658250
+    }
+]

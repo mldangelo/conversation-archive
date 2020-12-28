@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "5f44fd2dd688e601004cbd4f",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T11:59:41.697Z",
+        "message": "It's unnerving and can be weird bc you can't think too much about it",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5723947b7c8a248a1051730a",
+        "created_date": "2020-08-25T11:59:41.697Z",
+        "timestamp": 1598356781697
+    },
+    {
+        "_id": "5f44fd0fd688e601004cb90a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T11:59:11.007Z",
+        "message": "I've been into it for about 4-5 years",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5723947b7c8a248a1051730a",
+        "created_date": "2020-08-25T11:59:11.007Z",
+        "timestamp": 1598356751007
+    },
+    {
+        "_id": "5f44fce595b4af0100ada9cf",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T11:58:29.143Z",
+        "message": "I've gone to a psychic once or twice",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5723947b7c8a248a1051730a",
+        "created_date": "2020-08-25T11:58:29.143Z",
+        "timestamp": 1598356709143
+    },
+    {
+        "_id": "5f448b2147d1400100418a5e",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T03:53:05.431Z",
+        "message": "Im terrified of them. Have you ever gone to a fortune teller? Did you pick up reading tarot cards during the pandemic?",
+        "to": "5723947b7c8a248a1051730a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-25T03:53:05.431Z",
+        "timestamp": 1598327585431
+    },
+    {
+        "_id": "5f448952c8130701003df56b",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T03:45:22.471Z",
+        "message": "Fortune tellers are a bit scary",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5723947b7c8a248a1051730a",
+        "created_date": "2020-08-25T03:45:22.471Z",
+        "timestamp": 1598327122471
+    },
+    {
+        "_id": "5f44895101ca99010029216a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T03:45:21.434Z",
+        "message": "Fortune tellers are a bit scary",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5723947b7c8a248a1051730a",
+        "created_date": "2020-08-25T03:45:21.434Z",
+        "timestamp": 1598327121434
+    },
+    {
+        "_id": "5f44894a1275520100aca44b",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T03:45:14.966Z",
+        "message": "Hi! I've read books on it, a lot of internet articles, and basically by having tarot cards/reading them and having mine read",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5723947b7c8a248a1051730a",
+        "created_date": "2020-08-25T03:45:14.966Z",
+        "timestamp": 1598327114966
+    },
+    {
+        "_id": "5f4475ed9b784301001186f4",
+        "match_id": "53d5eeccb85c95c5347c8c6a5723947b7c8a248a1051730a",
+        "sent_date": "2020-08-25T02:22:37.506Z",
+        "message": "Hi Hannah! How did you learn cartomancy? I’ve fantasied about visiting one of the late night fortune tellers in the west village. but Im too afraid of learning intimate truths about myself.",
+        "to": "5723947b7c8a248a1051730a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-25T02:22:37.506Z",
+        "timestamp": 1598322157506
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5f3605b56bc9e90100793eb2",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c0c5b35d8531c985c027666",
+        "sent_date": "2020-08-14T03:32:05.310Z",
+        "message": "Hi! Where in New York are you based?",
+        "to": "5c0c5b35d8531c985c027666",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-14T03:32:05.310Z",
+        "timestamp": 1597375925310
+    }
+]

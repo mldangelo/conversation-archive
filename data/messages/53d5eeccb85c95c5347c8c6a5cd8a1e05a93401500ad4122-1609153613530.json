@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5dfb042867ae4f0100233d67",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cd8a1e05a93401500ad4122",
+        "sent_date": "2019-12-19T05:01:28.506Z",
+        "message": "Hi Alex, can you tell me about what you’re writing?",
+        "to": "5cd8a1e05a93401500ad4122",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-12-19T05:01:28.506Z",
+        "timestamp": 1576731688506
+    }
+]

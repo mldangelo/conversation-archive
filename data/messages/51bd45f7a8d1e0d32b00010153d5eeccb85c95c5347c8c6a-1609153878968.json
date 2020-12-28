@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5b3f0154bcd3ff3d1fd49beb",
+        "match_id": "51bd45f7a8d1e0d32b00010153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T05:42:44.425Z",
+        "message": "Haha maybe. I’m actually working at a new place now but I still have some email chops lol",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "51bd45f7a8d1e0d32b000101",
+        "created_date": "2018-07-06T05:42:44.425Z",
+        "timestamp": 1530855764425
+    },
+    {
+        "_id": "5b3ee37648b33aad09689089",
+        "match_id": "51bd45f7a8d1e0d32b00010153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T03:35:18.706Z",
+        "message": "Hey Melissa! Can you help me with an email marketing campaign? ",
+        "to": "51bd45f7a8d1e0d32b000101",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T03:35:18.706Z",
+        "timestamp": 1530848118706
+    }
+]

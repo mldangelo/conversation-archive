@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5f3dc9a81b7c450100ccd10f",
+        "match_id": "53d5eeccb85c95c5347c8c6a5e973b2c7248130100412533",
+        "sent_date": "2020-08-20T00:54:00.092Z",
+        "message": "Hi Tiffany! Happy Wednesday. I’m so sorry I missed your message. Being a gemologist sounds fascinating. Do you have lot’s of fancy testing equipment? I have a tiny spectrometer somewhere that can be used to grade colors. One of my friends in New Rochelle has a couple of gamma ray spectrometers and a scanning electron microscope in his garage which could be used to do so much more.",
+        "to": "5e973b2c7248130100412533",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-20T00:54:00.092Z",
+        "timestamp": 1597884840092
+    },
+    {
+        "_id": "5f370fac813df001005a9d7a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5e973b2c7248130100412533",
+        "sent_date": "2020-08-14T22:26:52.521Z",
+        "message": "Happy Friday Michael !",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5e973b2c7248130100412533",
+        "created_date": "2020-08-14T22:26:52.521Z",
+        "timestamp": 1597444012521
+    }
+]

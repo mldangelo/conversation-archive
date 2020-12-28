@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5b7eff07fb334cac54cd0cea",
+        "match_id": "52169a1c6ca3844f2700022f53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-23T18:37:59.530Z",
+        "message": "Are you living in Kampala?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52169a1c6ca3844f2700022f",
+        "created_date": "2018-08-23T18:37:59.530Z",
+        "timestamp": 1535049479530
+    },
+    {
+        "_id": "5b7efefd6e5ca67c09f15e3f",
+        "match_id": "52169a1c6ca3844f2700022f53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-23T18:37:49.899Z",
+        "message": "Also you're weirdly close to me right now...less than a km!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52169a1c6ca3844f2700022f",
+        "created_date": "2018-08-23T18:37:49.899Z",
+        "timestamp": 1535049469899
+    },
+    {
+        "_id": "5b7efeec35d5937f09f44aac",
+        "match_id": "52169a1c6ca3844f2700022f53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-08-23T18:37:32.437Z",
+        "message": "What's your start up?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52169a1c6ca3844f2700022f",
+        "created_date": "2018-08-23T18:37:32.437Z",
+        "timestamp": 1535049452437
+    }
+]

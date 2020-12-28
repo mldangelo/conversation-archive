@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "55ab1c64f74196c9510f8ffd",
+        "match_id": "532060eec8066a172b002a0d53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2015-07-19T03:41:24.095Z",
+        "message": "So Newton's law of universal gravitation relates the gravitational force between objects to their respective distance between them. It states f=G*m1*m2/r^2 where G is a constant, m1 and m2 are masses (you and me), and r is the distance between us. It means that by law, we are attracted to each other! \n\nI'm great! How are you?",
+        "to": "532060eec8066a172b002a0d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2015-07-19T03:41:24.095Z",
+        "timestamp": 1437277284095
+    },
+    {
+        "_id": "55a5b9f22f5825a80ba138d4",
+        "match_id": "532060eec8066a172b002a0d53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2015-07-15T01:40:02.997Z",
+        "message": "Hey Michael! How are you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "532060eec8066a172b002a0d",
+        "created_date": "2015-07-15T01:40:02.997Z",
+        "timestamp": 1436924402997
+    },
+    {
+        "_id": "55a5b9e72f5825a80ba13634",
+        "match_id": "532060eec8066a172b002a0d53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2015-07-15T01:39:51.559Z",
+        "message": "I wouldn't say I'm expert by any means but familiar, yes.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "532060eec8066a172b002a0d",
+        "created_date": "2015-07-15T01:39:51.559Z",
+        "timestamp": 1436924391559
+    },
+    {
+        "_id": "55a498241e13ec4628bf04e7",
+        "match_id": "532060eec8066a172b002a0d53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2015-07-14T05:03:32.728Z",
+        "message": "Hey Taylor! Are you familiar with Newton's law of universal gravitation?",
+        "to": "532060eec8066a172b002a0d",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2015-07-14T05:03:32.728Z",
+        "timestamp": 1436850212728
+    }
+]

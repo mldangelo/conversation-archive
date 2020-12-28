@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5def17a9f6b84b01008925a0",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c944a230ecfa01100b14630",
+        "sent_date": "2019-12-10T03:57:29.455Z",
+        "message": "You’re 13 miles away! Do you commute to the city for work?",
+        "to": "5c944a230ecfa01100b14630",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-12-10T03:57:29.455Z",
+        "timestamp": 1575950249455
+    },
+    {
+        "_id": "5def1791a7e434010086e4f1",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c944a230ecfa01100b14630",
+        "sent_date": "2019-12-10T03:57:05.047Z",
+        "message": "Hi! Awesome. I’m from Buffalo originally. I live in Meatpacking and am renovating an apartment in and planning to move to the LES at some point in the distant future.",
+        "to": "5c944a230ecfa01100b14630",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-12-10T03:57:05.047Z",
+        "timestamp": 1575950225047
+    },
+    {
+        "_id": "5def162dda8b6e010038a568",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c944a230ecfa01100b14630",
+        "sent_date": "2019-12-10T03:51:09.590Z",
+        "message": "Hey, I'm from queens! Hbu?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c944a230ecfa01100b14630",
+        "created_date": "2019-12-10T03:51:09.590Z",
+        "timestamp": 1575949869590
+    },
+    {
+        "_id": "5def148599c80d0100340444",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c944a230ecfa01100b14630",
+        "sent_date": "2019-12-10T03:44:05.792Z",
+        "message": "Hey, where in the city are you based?",
+        "to": "5c944a230ecfa01100b14630",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-12-10T03:44:05.792Z",
+        "timestamp": 1575949445792
+    }
+]

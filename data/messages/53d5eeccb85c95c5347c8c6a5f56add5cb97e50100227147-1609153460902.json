@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "5f7891ef5b42a3010073d27d",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f56add5cb97e50100227147",
+        "sent_date": "2020-10-03T14:59:59.087Z",
+        "message": "I knew there had to be a trick. Yes, the nytimes crossword is the best. Thursday through Saturday are pretty tough though, I usually have to cheat a bit on those haha",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5f56add5cb97e50100227147",
+        "created_date": "2020-10-03T14:59:59.087Z",
+        "timestamp": 1601737199087
+    },
+    {
+        "_id": "5f78052bab5887010077b0c2",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f56add5cb97e50100227147",
+        "sent_date": "2020-10-03T04:59:23.047Z",
+        "message": "Do you do the NYT crossword?",
+        "to": "5f56add5cb97e50100227147",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-03T04:59:23.047Z",
+        "timestamp": 1601701163047
+    },
+    {
+        "_id": "5f78051c08d1cf01008de545",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f56add5cb97e50100227147",
+        "sent_date": "2020-10-03T04:59:08.454Z",
+        "message": "It’s not so hard at all, to be honest, once you know what to do. I could definitely teach you :)",
+        "to": "5f56add5cb97e50100227147",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-03T04:59:08.454Z",
+        "timestamp": 1601701148454
+    },
+    {
+        "_id": "5f78046176ff7101003dd445",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f56add5cb97e50100227147",
+        "sent_date": "2020-10-03T04:56:01.560Z",
+        "message": "Haha maybe you can teach me, I've never been able to figure those things out",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5f56add5cb97e50100227147",
+        "created_date": "2020-10-03T04:56:01.560Z",
+        "timestamp": 1601700961560
+    },
+    {
+        "_id": "5f77eea9a42018010005b0b0",
+        "match_id": "53d5eeccb85c95c5347c8c6a5f56add5cb97e50100227147",
+        "sent_date": "2020-10-03T03:23:21.929Z",
+        "message": "I’m not so good with crosswords, but I am pretty good with a rubics cube :)",
+        "to": "5f56add5cb97e50100227147",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-10-03T03:23:21.929Z",
+        "timestamp": 1601695401929
+    }
+]

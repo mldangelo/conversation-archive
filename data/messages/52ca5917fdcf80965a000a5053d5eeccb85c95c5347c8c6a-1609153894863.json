@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5b3457bc2322c6b609c40c41",
+        "match_id": "52ca5917fdcf80965a000a5053d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-06-28T03:36:28.087Z",
+        "message": "I'm also a founder, and I have an incredibly tiny half-joke, half-legitimate venture firm. ",
+        "to": "52ca5917fdcf80965a000a50",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-28T03:36:28.087Z",
+        "timestamp": 1530156988087
+    },
+    {
+        "_id": "5b345787f2e745e6416664f8",
+        "match_id": "52ca5917fdcf80965a000a5053d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-06-28T03:35:35.639Z",
+        "message": "Hey Julia, can you tell me about your company? ",
+        "to": "52ca5917fdcf80965a000a50",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-06-28T03:35:35.639Z",
+        "timestamp": 1530156935639
+    }
+]

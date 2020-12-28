@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5f5c0d7f05940201005f4801",
+        "match_id": "53d5eeccb85c95c5347c8c6a5d6b096b7cbeee15002838a5",
+        "sent_date": "2020-09-11T23:51:27.904Z",
+        "message": "Hi Paris! Please tell me you purchased that goat music album. Did you listen to it? How was it?",
+        "to": "5d6b096b7cbeee15002838a5",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-09-11T23:51:27.904Z",
+        "timestamp": 1599868287904
+    }
+]

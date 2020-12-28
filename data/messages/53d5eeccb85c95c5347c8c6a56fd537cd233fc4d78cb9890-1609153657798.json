@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5db5cb0c42670d0100007833",
+        "match_id": "53d5eeccb85c95c5347c8c6a56fd537cd233fc4d78cb9890",
+        "sent_date": "2019-10-27T16:51:24.975Z",
+        "message": "Hi Rosa, have you read any good sci-fi novels recently? I’m taking a break from sci-fi and I’m currently reading a book of Lovecraft short stories. Most recently, I reread Dune.",
+        "to": "56fd537cd233fc4d78cb9890",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-10-27T16:51:24.975Z",
+        "timestamp": 1572195084975
+    }
+]

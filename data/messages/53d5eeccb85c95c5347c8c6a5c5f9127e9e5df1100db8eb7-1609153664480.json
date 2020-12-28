@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5d435256e6134a010036da1e",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c5f9127e9e5df1100db8eb7",
+        "sent_date": "2019-08-01T20:57:58.745Z",
+        "message": "Hi Michael! I hope you’re having a wonderful day! Thank you very much, I really appreciate that you think it’s beautiful and shared your story with me.\n\nThat’s awesome you tried to make a watch! I’m asked pretty frequently if I make watches since I make jewelry but I wouldn’t even know where to start to be honest. I admire you attempted to make one! It’s a true art. You should give it another go!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5c5f9127e9e5df1100db8eb7",
+        "created_date": "2019-08-01T20:57:58.745Z",
+        "timestamp": 1564693078745
+    },
+    {
+        "_id": "5d425583647d580100f20cb6",
+        "match_id": "53d5eeccb85c95c5347c8c6a5c5f9127e9e5df1100db8eb7",
+        "sent_date": "2019-08-01T02:59:15.054Z",
+        "message": "Hi! Your jewelry is beautiful. I attempted to make a watch once. I bought an old tanner movement and cnc’d the lugs and case but got frustrated moving the crown 90 degrees and abandoned the project. I still have the parts. Rambling a bit but I appreciate what you do.",
+        "to": "5c5f9127e9e5df1100db8eb7",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-08-01T02:59:15.054Z",
+        "timestamp": 1564628355054
+    }
+]

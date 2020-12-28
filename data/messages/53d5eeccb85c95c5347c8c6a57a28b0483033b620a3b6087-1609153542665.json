@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5f3ea1b088979c0100bca7bd",
+        "match_id": "53d5eeccb85c95c5347c8c6a57a28b0483033b620a3b6087",
+        "sent_date": "2020-08-20T16:15:44.662Z",
+        "message": "And happy almost Friday btw 😏",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "57a28b0483033b620a3b6087",
+        "created_date": "2020-08-20T16:15:44.662Z",
+        "timestamp": 1597940144662
+    },
+    {
+        "_id": "5f3ea1a2a89b5d010016e49e",
+        "match_id": "53d5eeccb85c95c5347c8c6a57a28b0483033b620a3b6087",
+        "sent_date": "2020-08-20T16:15:30.801Z",
+        "message": "Mostly workout at home (body weight/resistance bands/HIIT stuff)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "57a28b0483033b620a3b6087",
+        "created_date": "2020-08-20T16:15:30.801Z",
+        "timestamp": 1597940130801
+    },
+    {
+        "_id": "5f3c95d135f3490100c351a5",
+        "match_id": "53d5eeccb85c95c5347c8c6a57a28b0483033b620a3b6087",
+        "sent_date": "2020-08-19T03:00:33.882Z",
+        "message": "What have you been doing in place of going to the gym?",
+        "to": "57a28b0483033b620a3b6087",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-19T03:00:33.882Z",
+        "timestamp": 1597806033882
+    },
+    {
+        "_id": "5f3c95c6b3eab30100081515",
+        "match_id": "53d5eeccb85c95c5347c8c6a57a28b0483033b620a3b6087",
+        "sent_date": "2020-08-19T03:00:22.384Z",
+        "message": "Not an actuary joke: Three statisticians are out hunting. Suddenly, a deer appears 50 yards away. The first statistician shoots and hits the tree 5 feet to the left. The second statistician shoots and hits the tree 5 feet to the right. The third statistician starts jumping up and down, yelling \"We got him!",
+        "to": "57a28b0483033b620a3b6087",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-19T03:00:22.384Z",
+        "timestamp": 1597806022384
+    }
+]

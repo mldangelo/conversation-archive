@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5b5f658ed24ff8e82a5a4100",
+        "match_id": "52596034085fb2d361000c8553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-30T19:22:54.803Z",
+        "message": "Mmm I think it played pretty well",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52596034085fb2d361000c85",
+        "created_date": "2018-07-30T19:22:54.803Z",
+        "timestamp": 1532978574803
+    },
+    {
+        "_id": "5b5e870c6eaa788f09815cf3",
+        "match_id": "52596034085fb2d361000c8553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-30T03:33:32.455Z",
+        "message": "That joke played better in my head. ",
+        "to": "52596034085fb2d361000c85",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-30T03:33:32.455Z",
+        "timestamp": 1532921612455
+    },
+    {
+        "_id": "5b5e87059d27810a68be818a",
+        "match_id": "52596034085fb2d361000c8553d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-30T03:33:25.189Z",
+        "message": "Hey Helen, if Tinder released an anonymized dataset of user profiles and word vectors, and if we calculated the cosine similarity of our inner product space, we would have high similarity. ",
+        "to": "52596034085fb2d361000c85",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-30T03:33:25.189Z",
+        "timestamp": 1532921605189
+    }
+]

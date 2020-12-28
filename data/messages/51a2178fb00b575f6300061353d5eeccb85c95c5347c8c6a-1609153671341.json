@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5d40ed11327cf60100986742",
+        "match_id": "51a2178fb00b575f6300061353d5eeccb85c95c5347c8c6a",
+        "sent_date": "2019-07-31T01:21:21.456Z",
+        "message": "Hi! Can you tell me about your accelerator?",
+        "to": "51a2178fb00b575f63000613",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-07-31T01:21:21.456Z",
+        "timestamp": 1564536081456
+    }
+]

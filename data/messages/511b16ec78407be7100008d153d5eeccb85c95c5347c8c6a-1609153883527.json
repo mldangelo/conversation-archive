@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5b3ed88baf03af733a22ee9f",
+        "match_id": "511b16ec78407be7100008d153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-06T02:48:43.312Z",
+        "message": "Ah, that's so unfortunate. I hoped that you had a pet elephant in new york. I took my sailboat out and watched the fireworks from liberty landing. What did you end up doing? ",
+        "to": "511b16ec78407be7100008d1",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-06T02:48:43.312Z",
+        "timestamp": 1530845323312
+    },
+    {
+        "_id": "5b3c05d0180aeb7409f6ef6c",
+        "match_id": "511b16ec78407be7100008d153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-03T23:25:04.468Z",
+        "message": "What are you up to for the 4th?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "511b16ec78407be7100008d1",
+        "created_date": "2018-07-03T23:25:04.468Z",
+        "timestamp": 1530660304468
+    },
+    {
+        "_id": "5b3c05c66e434e4d382ac67d",
+        "match_id": "511b16ec78407be7100008d153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-03T23:24:54.248Z",
+        "message": "Haha I wish! Just a friend from Thailand",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "511b16ec78407be7100008d1",
+        "created_date": "2018-07-03T23:24:54.248Z",
+        "timestamp": 1530660294248
+    },
+    {
+        "_id": "5b38eea4b3aa6af24a63c259",
+        "match_id": "511b16ec78407be7100008d153d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-07-01T15:09:24.875Z",
+        "message": "Hi Chelsea! Is that your pet baby elephant? Can I meet it?",
+        "to": "511b16ec78407be7100008d1",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2018-07-01T15:09:24.875Z",
+        "timestamp": 1530457764875
+    }
+]

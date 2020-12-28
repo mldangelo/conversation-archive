@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5dfb854d305fb70100e3467b",
+        "match_id": "53d5eeccb85c95c5347c8c6a562309bf337d6fdd367dba39",
+        "sent_date": "2019-12-19T14:12:29.055Z",
+        "message": "🙈 I just got back from a weekend in Rome on Monday",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "562309bf337d6fdd367dba39",
+        "created_date": "2019-12-19T14:12:29.055Z",
+        "timestamp": 1576764749055
+    },
+    {
+        "_id": "5dfb8532669d4001006e6c3e",
+        "match_id": "53d5eeccb85c95c5347c8c6a562309bf337d6fdd367dba39",
+        "sent_date": "2019-12-19T14:12:02.730Z",
+        "message": "I would love to hear about your travel plans :) I have done a ton of solo travel recently and just booked my next trip last night.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "562309bf337d6fdd367dba39",
+        "created_date": "2019-12-19T14:12:02.730Z",
+        "timestamp": 1576764722730
+    },
+    {
+        "_id": "5dfb84feacf3680100608e18",
+        "match_id": "53d5eeccb85c95c5347c8c6a562309bf337d6fdd367dba39",
+        "sent_date": "2019-12-19T14:11:10.036Z",
+        "message": "Hiya Michael, a U.S. diplomat to Saudi Arabia, Jamaica, Cambodia :)",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "562309bf337d6fdd367dba39",
+        "created_date": "2019-12-19T14:11:10.036Z",
+        "timestamp": 1576764670036
+    },
+    {
+        "_id": "5dfb02a0fa9fbe0100959e2c",
+        "match_id": "53d5eeccb85c95c5347c8c6a562309bf337d6fdd367dba39",
+        "sent_date": "2019-12-19T04:54:56.815Z",
+        "message": "Hi MJ! Which country were you a diplomat of/for?",
+        "to": "562309bf337d6fdd367dba39",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-12-19T04:54:56.815Z",
+        "timestamp": 1576731296815
+    }
+]

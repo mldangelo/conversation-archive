@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "5c47ede4134bde11003a362f",
+        "match_id": "52d971473732b3fd34000c0a53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2019-01-23T04:30:28.813Z",
+        "message": "Hi! Where were you in your last photo? It looks beautiful.",
+        "to": "52d971473732b3fd34000c0a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-01-23T04:30:28.813Z",
+        "timestamp": 1548217828813
+    }
+]

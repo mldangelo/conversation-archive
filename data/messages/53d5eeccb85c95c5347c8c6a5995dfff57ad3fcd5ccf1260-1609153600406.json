@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5e19ecfc8979670100fc7315",
+        "match_id": "53d5eeccb85c95c5347c8c6a5995dfff57ad3fcd5ccf1260",
+        "sent_date": "2020-01-11T15:42:52.410Z",
+        "message": "I can provide references.",
+        "to": "5995dfff57ad3fcd5ccf1260",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-01-11T15:42:52.410Z",
+        "timestamp": 1578757372410
+    },
+    {
+        "_id": "5e19eceb78ddf90100b93701",
+        "match_id": "53d5eeccb85c95c5347c8c6a5995dfff57ad3fcd5ccf1260",
+        "sent_date": "2020-01-11T15:42:35.676Z",
+        "message": "Hi! Depending on how the 2020 election goes, can you take me back to Stockholm with you?",
+        "to": "5995dfff57ad3fcd5ccf1260",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-01-11T15:42:35.676Z",
+        "timestamp": 1578757355676
+    }
+]

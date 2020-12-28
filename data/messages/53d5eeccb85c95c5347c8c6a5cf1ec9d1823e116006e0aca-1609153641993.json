@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5dc76cfb3f64fc0100d157e1",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cf1ec9d1823e116006e0aca",
+        "sent_date": "2019-11-10T01:50:51.481Z",
+        "message": "Do you work at a startup? My company collects art market data, automates valuations, and builds mechanisms to transfer pricing and liquidity risk for fine art. We mostly work with auction houses and investment banks. We lose quite a bit of money.",
+        "to": "5cf1ec9d1823e116006e0aca",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-11-10T01:50:51.481Z",
+        "timestamp": 1573350651481
+    },
+    {
+        "_id": "5dc76c8f29bb990100c1c5e9",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cf1ec9d1823e116006e0aca",
+        "sent_date": "2019-11-10T01:49:03.013Z",
+        "message": "Awesome! I’m renovating an apartment near Clinton and Stanton. We’ll be neighbors in a few more months. I currently live in Meatpacking.",
+        "to": "5cf1ec9d1823e116006e0aca",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-11-10T01:49:03.013Z",
+        "timestamp": 1573350543013
+    },
+    {
+        "_id": "5dc5884eeea5e5010090bf1d",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cf1ec9d1823e116006e0aca",
+        "sent_date": "2019-11-08T15:22:54.511Z",
+        "message": "Also would love to hear all about your startup",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5cf1ec9d1823e116006e0aca",
+        "created_date": "2019-11-08T15:22:54.511Z",
+        "timestamp": 1573226574511
+    },
+    {
+        "_id": "5dc58838eb4a06010083202e",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cf1ec9d1823e116006e0aca",
+        "sent_date": "2019-11-08T15:22:32.817Z",
+        "message": "Where are you?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5cf1ec9d1823e116006e0aca",
+        "created_date": "2019-11-08T15:22:32.817Z",
+        "timestamp": 1573226552817
+    },
+    {
+        "_id": "5dc588324de5e801005aa087",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cf1ec9d1823e116006e0aca",
+        "sent_date": "2019-11-08T15:22:26.939Z",
+        "message": "Alphabet city/ east village area",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5cf1ec9d1823e116006e0aca",
+        "created_date": "2019-11-08T15:22:26.939Z",
+        "timestamp": 1573226546939
+    },
+    {
+        "_id": "5dc4ff6bcad5620100b29944",
+        "match_id": "53d5eeccb85c95c5347c8c6a5cf1ec9d1823e116006e0aca",
+        "sent_date": "2019-11-08T05:38:51.577Z",
+        "message": "Hi Shannon! Where in the city are you based?",
+        "to": "5cf1ec9d1823e116006e0aca",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2019-11-08T05:38:51.577Z",
+        "timestamp": 1573191531577
+    }
+]

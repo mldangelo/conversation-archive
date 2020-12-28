@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "5fd82c1d64ffd20100ec5ede",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-15T03:23:09.967Z",
+        "message": "Hi Miranda. I’m sorry for my delay. I hope you’re able to find an apartment that’s suitable to you. I decided to hang the Gottlieb in my dining room. It’s 9x12 feet, so it takes most of a wall :( I have a (gross) Jenny Saville opposite it. After some self reflection, I think I’m not quite ready to enter the dating market. I need to work on myself first. I’m sorry for leading you on. Good luck finding whatever it is that you’re looking for.",
+        "to": "5fc061369c00f20100da002a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-15T03:23:09.967Z",
+        "timestamp": 1608002589967
+    },
+    {
+        "_id": "5fceb4f81a9322010084904b",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-07T23:04:24.782Z",
+        "message": "Could we text instead? 585-545-8325",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fc061369c00f20100da002a",
+        "created_date": "2020-12-07T23:04:24.782Z",
+        "timestamp": 1607382264782
+    },
+    {
+        "_id": "5fceb4e33436740100649747",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-07T23:04:03.647Z",
+        "message": "Sorry for the delay, I’ve been trying to find a new apartment",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fc061369c00f20100da002a",
+        "created_date": "2020-12-07T23:04:03.647Z",
+        "timestamp": 1607382243647
+    },
+    {
+        "_id": "5fc949c3e81b000100d6fcf9",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-03T20:25:39.972Z",
+        "message": "And maybe slightly related: I bought a ridiculously oversized Gottlieb today.",
+        "to": "5fc061369c00f20100da002a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-03T20:25:39.972Z",
+        "timestamp": 1607027139972
+    },
+    {
+        "_id": "5fc949778436960100ac0627",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-03T20:24:23.379Z",
+        "message": "Hi! Thank you! I like the way you present yourself too. That sounds like an amazing start to a day. Did you run in college? I run ~ 20 miles per week, usually after work on Tuesday and Thursday, and a longer run on Sunday. Do you mind if I ask what you do? Super interested in the intersection between the arts and commercial real estate.",
+        "to": "5fc061369c00f20100da002a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-03T20:24:23.379Z",
+        "timestamp": 1607027063379
+    },
+    {
+        "_id": "5fc930c266590c0100b4bf45",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-03T18:38:58.057Z",
+        "message": "Hi Michael! I run every morning at the Central Park reservoir (unless it is pouring rain or a super intense blizzard!) ☺️ I like your bio! How often do you run?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5fc061369c00f20100da002a",
+        "created_date": "2020-12-03T18:38:58.057Z",
+        "timestamp": 1607020738057
+    },
+    {
+        "_id": "5fc83a8666590c0100907d3a",
+        "match_id": "53d5eeccb85c95c5347c8c6a5fc061369c00f20100da002a",
+        "sent_date": "2020-12-03T01:08:22.352Z",
+        "message": "Hi! How often do you run?",
+        "to": "5fc061369c00f20100da002a",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-12-03T01:08:22.352Z",
+        "timestamp": 1606957702352
+    }
+]

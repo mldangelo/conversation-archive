@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5aa23cae50fa65cd2b491362",
+        "match_id": "5308dfee8d59729c3b0002ea53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-03-09T07:50:06.792Z",
+        "message": "Also, what's so exciting in BUF that you're going there twice?",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5308dfee8d59729c3b0002ea",
+        "created_date": "2018-03-09T07:50:06.792Z",
+        "timestamp": 1520581806792
+    },
+    {
+        "_id": "5aa23c8cd5317eaf2bdcc7c8",
+        "match_id": "5308dfee8d59729c3b0002ea53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-03-09T07:49:32.465Z",
+        "message": "If you could guarantee that one event happened in your lifetime, what would you pick? Not that you'd live long enough to see it, or that you being alive magically made it happen, but that it coincidentally happened while you were alive.",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5308dfee8d59729c3b0002ea",
+        "created_date": "2018-03-09T07:49:32.465Z",
+        "timestamp": 1520581772465
+    },
+    {
+        "_id": "5aa23c3a857d693358bb805f",
+        "match_id": "5308dfee8d59729c3b0002ea53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-03-09T07:48:10.150Z",
+        "message": "So....",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5308dfee8d59729c3b0002ea",
+        "created_date": "2018-03-09T07:48:10.150Z",
+        "timestamp": 1520581690150
+    },
+    {
+        "_id": "5aa23c387db9b44d378487c1",
+        "match_id": "5308dfee8d59729c3b0002ea53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2018-03-09T07:48:08.359Z",
+        "message": "Yo!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "5308dfee8d59729c3b0002ea",
+        "created_date": "2018-03-09T07:48:08.359Z",
+        "timestamp": 1520581688359
+    }
+]

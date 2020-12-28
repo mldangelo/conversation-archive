@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "541f0284a38ffa3f5c0d2fa0",
+        "match_id": "541e7656ddcca8ea3b56a230",
+        "sent_date": "2014-09-21T16:53:24.959Z",
+        "message": "I just moved here like 3 weeks ago... So many places i have yet to go to",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "53c0b0638fedca026cfe1011",
+        "created_date": "2014-09-21T16:53:24.959Z",
+        "timestamp": 1411318404959
+    },
+    {
+        "_id": "541f025745f6b03b3efa6248",
+        "match_id": "541e7656ddcca8ea3b56a230",
+        "sent_date": "2014-09-21T16:52:39.745Z",
+        "message": "Nope!",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "53c0b0638fedca026cfe1011",
+        "created_date": "2014-09-21T16:52:39.745Z",
+        "timestamp": 1411318359745
+    },
+    {
+        "_id": "541e96cbcc01b8ed37aa0f80",
+        "match_id": "541e7656ddcca8ea3b56a230",
+        "sent_date": "2014-09-21T09:13:47.709Z",
+        "message": "Have you been to planet granite?",
+        "to": "53c0b0638fedca026cfe1011",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2014-09-21T09:13:47.709Z",
+        "timestamp": 1411290827709
+    },
+    {
+        "_id": "541e96a063e6dd236491a739",
+        "match_id": "541e7656ddcca8ea3b56a230",
+        "sent_date": "2014-09-21T09:13:04.388Z",
+        "message": "I know how to rockclimb!",
+        "to": "53c0b0638fedca026cfe1011",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2014-09-21T09:13:04.388Z",
+        "timestamp": 1411290784388
+    }
+]

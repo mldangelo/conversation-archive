@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5f3e846b67095e010074d0d9",
+        "match_id": "52799f1bb38b6f343a001cec53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-20T14:10:50.937Z",
+        "message": "Lol yes I have survived. I’ve been in the city the whole time, was working from home until June and now I’m back in the office full time unfortunately. How has the pandemic been going for you",
+        "to": "53d5eeccb85c95c5347c8c6a",
+        "from": "52799f1bb38b6f343a001cec",
+        "created_date": "2020-08-20T14:10:50.937Z",
+        "timestamp": 1597932650937
+    },
+    {
+        "_id": "5f3dcfda8c36bb01002bed08",
+        "match_id": "52799f1bb38b6f343a001cec53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-20T01:20:26.488Z",
+        "message": "How have you been? Have you stayed in the city throughout the pandemic?",
+        "to": "52799f1bb38b6f343a001cec",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-20T01:20:26.488Z",
+        "timestamp": 1597886426488
+    },
+    {
+        "_id": "5f3dcf596076630100570f01",
+        "match_id": "52799f1bb38b6f343a001cec53d5eeccb85c95c5347c8c6a",
+        "sent_date": "2020-08-20T01:18:17.500Z",
+        "message": "Hi! You stick out in my memory. I think we matched a while ago. Happy to see that you survived the first wave of the pandemic. I hope life has been kind to you.",
+        "to": "52799f1bb38b6f343a001cec",
+        "from": "53d5eeccb85c95c5347c8c6a",
+        "created_date": "2020-08-20T01:18:17.500Z",
+        "timestamp": 1597886297500
+    }
+]
