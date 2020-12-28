@@ -7,7 +7,7 @@ const {
     matchesParams,
 } = require('./helpers');
 
-const limit = pLimit(1); // 2 promises at a time
+const limit = pLimit(1); // 1 promise at a time
 
 // exports messages
 const messageUrl = (matchId, token) => `https://api.gotinder.com/v2/matches/${matchId}/messages?locale=en&count=100${token ? `&page_token=${token}`: null}`;
@@ -29,7 +29,6 @@ const saveMessages = async (id) => {
         }
         token = next_page_token;
     }
-
     await loadEntities(allMessages, `data/messages/${id}-${Date.now()}.json`);
 }
 
