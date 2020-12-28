@@ -1,0 +1,11 @@
+{
+  "name": "tinder-archive",
+  "version": "0.0.1",
+  "description": "A Tinder conversation export tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node export.js"
+  },
+  "author": "",
+  "private": true
+}
